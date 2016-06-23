@@ -3951,7 +3951,11 @@ So you can do something
 custom with tap, or swipe,
 
 00:48:53.896 --> 00:48:57.306 A:middle
-or pan, or long pr
+or pan, or long press.
+
+00:48:58.326 --> 00:49:03.576 A:middle
+This one takes a
+little bit of time.
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
