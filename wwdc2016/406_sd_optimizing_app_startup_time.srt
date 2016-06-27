@@ -54,6 +54,8 @@ in the first group [laughter].
 00:00:59.266 --> 00:01:01.786 A:middle
 And lastly, is anyone
 who's just really curious
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -141,6 +143,8 @@ dlopen and that's used
 
 00:01:57.866 --> 00:01:58.896 A:middle
 on a Mac OS for plug-ins.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -220,6 +224,8 @@ constraints of being page size,
 
 00:02:57.396 --> 00:02:58.706 A:middle
 but they are non-overlapping.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -301,6 +307,8 @@ build another separate Mach-O
 00:03:57.386 --> 00:03:59.596 A:middle
 file, this one built
 for 32 bits, RB7.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -391,6 +399,8 @@ have to be one to one,
 00:04:56.396 --> 00:05:00.096 A:middle
 you could have logical addresses
 that go to no physical RAM
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -488,6 +498,8 @@ different addresses,
 00:05:57.636 --> 00:06:01.266 A:middle
 as if you had read it in memory,
 each time you access an address
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -585,6 +597,8 @@ mapping to go to that.
 00:06:58.106 --> 00:07:01.256 A:middle
 So that one process now has
 its own copy of that page.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -687,6 +701,8 @@ would have taken eight pages.
 00:07:59.516 --> 00:08:01.576 A:middle
 The savings, why it's
 different is these ZeroFills.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -793,6 +809,8 @@ Now dyld can expect a LINKEDIT.
 00:08:59.556 --> 00:09:01.516 A:middle
 Now in process, the
 LINKEDIT will tell dyld,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -890,6 +908,8 @@ exists in RAM somewhere,
 00:09:59.216 --> 00:10:02.496 A:middle
 and if it does it can reuse it,
 if not, it has to reread it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -976,6 +996,8 @@ run a cryptographic hash
 00:10:56.496 --> 00:10:59.666 A:middle
 over the entire file, and then
 sign it with your signature.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1064,6 +1086,8 @@ not writeable, not executable.
 00:11:58.816 --> 00:12:01.556 A:middle
 The size of that region is at
 least 4KB to 32 bit processes
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1162,6 +1186,8 @@ those steps.
 00:12:59.756 --> 00:13:01.446 A:middle
 This is a whole bunch
 of steps and it has sort
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1251,6 +1277,8 @@ depend upon the dylibs.
 00:13:57.526 --> 00:14:00.426 A:middle
 So dyld has to do the same
 thing over again for each
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1349,6 +1377,8 @@ our old friend,
 00:14:58.036 --> 00:14:59.306 A:middle
 and we add a lot
 of old indirection.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1436,6 +1466,8 @@ for that binary to prepare it.
 
 00:15:58.816 --> 00:15:59.536 A:middle
 So rebasing.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1530,6 +1562,8 @@ so when we start doing rebasing,
 00:16:58.446 --> 00:17:00.276 A:middle
 we're actually causing
 page faults to page
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1625,6 +1659,8 @@ bunch of DATA structures,
 00:17:59.466 --> 00:18:01.676 A:middle
 class DATA structure which
 is a pointer to its methods
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1712,6 +1748,8 @@ to be applied at this point.
 00:18:58.156 --> 00:19:00.646 A:middle
 And lastly, ObjC [inaudible] is
 based on selectors being unique
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1804,6 +1842,8 @@ initialize is run it may need
 00:19:58.896 --> 00:20:00.726 A:middle
 to call up some dylib
 and you want to make sure
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1889,6 +1929,8 @@ we want to run.
 00:20:58.546 --> 00:21:01.026 A:middle
 And then tap, and tap, and
 tap again on some button
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1967,6 +2009,8 @@ going to go through,
 
 00:21:57.926 --> 00:22:00.566 A:middle
 a way to fix all the slow downs.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2045,6 +2089,8 @@ time, and those animations,
 00:22:59.146 --> 00:23:01.606 A:middle
 give you a chance to
 hide your launch times.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2142,6 +2188,8 @@ images, bind images,
 00:23:58.306 --> 00:24:00.326 A:middle
 run image initializers,
 and then call main.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2238,6 +2286,8 @@ because it's been launched
 00:24:59.486 --> 00:25:02.736 A:middle
 and quit previously, and it's
 still sitting in the discache
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2313,6 +2363,8 @@ setting an environment variable.
 
 00:25:59.476 --> 00:26:00.836 A:middle
 DYLD Print Statistics.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2392,6 +2444,8 @@ it's registering.
 00:26:57.456 --> 00:27:00.106 A:middle
 So you don't have to worry
 about it, but you notice it
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2479,6 +2533,8 @@ big thing to understand
 00:27:59.806 --> 00:28:01.706 A:middle
 about dylib loading and the
 slowdown that you'll see
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2562,6 +2618,8 @@ on, but it is deferred.
 00:28:59.716 --> 00:29:03.126 A:middle
 So, it's a viable option but
 you should think long and hard
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2639,6 +2697,8 @@ a half a dozen.
 00:29:57.596 --> 00:30:00.856 A:middle
 So now that we've fixed up
 our dylib count let's move
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2724,6 +2784,8 @@ of ObjC classes object
 
 00:30:59.796 --> 00:31:01.066 A:middle
 and ivars that you have.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2809,6 +2871,8 @@ You can use Swift structs.
 00:31:58.286 --> 00:32:01.506 A:middle
 So Swift tends to use less
 data that has pointers
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2897,6 +2961,8 @@ with my, with my load time.
 00:32:57.806 --> 00:33:01.396 A:middle
 And I have at least 10,000
 classes, I actually have 20,000,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2980,6 +3046,8 @@ anything explicit for it.
 00:33:59.086 --> 00:34:02.746 A:middle
 And now finally, we're going
 to look at my initializers
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3061,6 +3129,8 @@ where, any code in one
 00:34:59.226 --> 00:35:01.006 A:middle
 of these blocks will be
 executed the first time its hit
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3143,6 +3213,8 @@ out as just data seen there,
 00:35:56.956 --> 00:35:58.886 A:middle
 it doesn't have to be run, it
 doesn't have to be fixed up.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3230,6 +3302,8 @@ because we're single threaded.
 00:36:57.176 --> 00:37:01.116 A:middle
 As soon as dlopens
 happened, in those situations,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3325,6 +3399,8 @@ to initialize my nibs
 00:37:59.946 --> 00:38:01.466 A:middle
 and do everything else,
 we're in very good shape.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3405,6 +3481,8 @@ see the URL up on screen.
 00:38:59.656 --> 00:39:01.486 A:middle
 There are several related
 sessions later in the week
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3430,3 +3508,5 @@ everybody, have a great week.
 
 00:39:12.516 --> 00:39:21.950 A:middle
 [ Applause ]
+
+

@@ -41,6 +41,8 @@ recognize their great work.
 00:00:58.806 --> 00:01:02.136 A:middle
 The Apple Design Awards are all
 about recognizing great work
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -124,6 +126,8 @@ slots, you had five
 
 00:01:59.636 --> 00:02:01.316 A:middle
 or six apps that were featured.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -217,6 +221,8 @@ and very valuable utilities,
 00:02:58.086 --> 00:03:00.536 A:middle
 some pretty incredible
 augmented reality,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -300,6 +306,8 @@ shared, that we connected,
 00:03:57.166 --> 00:04:00.556 A:middle
 that we worked, and that
 we spent our day getting
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -385,6 +393,8 @@ benchmark for excellence.
 00:04:58.226 --> 00:05:01.726 A:middle
 And they set a benchmark
 for excellence in usability,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -468,6 +478,8 @@ to an even wider audience
 00:05:58.726 --> 00:06:02.026 A:middle
 than they were prior to being
 accessible and localized.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -548,6 +560,8 @@ Joaquin Vila from Mexico.
 
 00:06:53.516 --> 00:07:11.896 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -612,6 +626,8 @@ in the app last year.
 00:07:56.646 --> 00:08:00.726 A:middle
 And he's also super active in
 the local developer community
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -693,6 +709,8 @@ All right.
 00:08:57.436 --> 00:09:01.136 A:middle
 And our second student
 winner tonight is Dividr
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -780,6 +798,8 @@ in terms of development.
 00:09:55.356 --> 00:10:00.166 A:middle
 So let me just show you
 this game for a minute.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -869,6 +889,8 @@ to your main winners tonight.
 00:10:59.646 --> 00:11:03.386 A:middle
 We have 10 winners this
 year, and 10 winners
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -930,6 +952,8 @@ Great to meet you.
 
 00:11:56.516 --> 00:12:01.746 A:middle
 [ Music ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1003,6 +1027,8 @@ with UIKit dynamics,
 00:12:57.946 --> 00:13:00.386 A:middle
 and that really makes
 this view come alive.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1104,6 +1130,8 @@ Now the Comment View is
 00:13:59.236 --> 00:14:01.666 A:middle
 where all the project
 participants come in
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1197,6 +1225,8 @@ It's written entirely in Swift.
 
 00:14:59.986 --> 00:15:01.466 A:middle
 It's using the latest tools.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1274,6 +1304,8 @@ from Canada.
 
 00:15:58.516 --> 00:16:05.566 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1344,6 +1376,8 @@ and very challenging auto-runner
 00:16:59.306 --> 00:17:02.006 A:middle
 with a twist that's
 based on color.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1448,6 +1482,8 @@ That was an easy level.
 
 00:17:59.846 --> 00:18:00.856 A:middle
 And now Mark is going to go
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1525,6 +1561,8 @@ game is just phenomenal.
 00:18:57.906 --> 00:19:00.346 A:middle
 Most of these levels have
 in effect a high road
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1620,6 +1658,8 @@ So, congratulations.
 
 00:19:59.306 --> 00:19:59.806 A:middle
 Back to you, John.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1675,6 +1715,8 @@ tracks on an iOS device.
 00:20:57.516 --> 00:20:59.586 A:middle
 And this is a super
 compelling app
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1760,6 +1802,8 @@ tom-toms on the off beats.
 00:21:58.166 --> 00:22:00.646 A:middle
 That actually sounds more like
 a kettle drum than a tom-tom,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1837,6 +1881,8 @@ these guys have gone ahead
 
 00:22:59.896 --> 00:23:01.046 A:middle
 and created a really,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1905,6 +1951,8 @@ our attack and we're going
 
 00:23:55.276 --> 00:23:56.226 A:middle
 to open up the filter.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1999,6 +2047,8 @@ winner is an app
 00:24:59.096 --> 00:25:01.266 A:middle
 that helps you to
 form good habits.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2070,6 +2120,8 @@ an app that is complicated
 
 00:25:59.506 --> 00:26:01.996 A:middle
 to set up, uninspiring to use,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2150,6 +2202,8 @@ of how I've done.
 00:26:59.486 --> 00:27:01.526 A:middle
 And you can see that
 I'm currently
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2228,6 +2282,8 @@ and iPhone are always in sync.
 00:27:55.276 --> 00:28:01.756 A:middle
 Now Streaks is also considerate,
 and I'll show you what I mean,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2306,6 +2362,8 @@ been missing a few tasks,
 00:28:59.926 --> 00:29:02.886 A:middle
 it will suggest an
 easier-to-achieve goal
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2376,6 +2434,8 @@ Apple TV as TC just mentioned.
 00:29:57.886 --> 00:30:01.946 A:middle
 All right, our next
 winner is, again, a game.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2431,6 +2491,8 @@ a tremendous job
 
 00:30:59.066 --> 00:31:00.236 A:middle
 with this huge franchise.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2518,6 +2580,8 @@ stylized rendering.
 00:31:59.906 --> 00:32:02.506 A:middle
 I hope you can all hear the
 ambient soundtrack here.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2610,6 +2674,8 @@ this lizard has woken up
 00:32:59.526 --> 00:33:02.666 A:middle
 and I'm going to step back
 and let him step on the trap.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2691,6 +2757,8 @@ across all of your devices.
 00:33:56.966 --> 00:33:59.786 A:middle
 It's localized in 11
 different languages.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2753,6 +2821,8 @@ Congrats.
 00:34:56.576 --> 00:35:00.076 A:middle
 This is a groundbreaking
 3D anatomical platform
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2848,6 +2918,8 @@ displayed as you need it.
 00:35:58.256 --> 00:36:01.106 A:middle
 Just a tremendous
 amount of content.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2932,6 +3004,8 @@ motion in real time,
 
 00:36:59.766 --> 00:37:01.986 A:middle
 rotate, and see things in 3D.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3027,6 +3101,8 @@ recording for my own use.
 00:37:59.206 --> 00:38:02.126 A:middle
 Or if I choose, I can share it
 with the 3D4Medical Community.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3105,6 +3181,8 @@ Congratulations.
 
 00:38:59.516 --> 00:39:07.546 A:middle
 [ Music ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3178,6 +3256,8 @@ It's really pretty awesome.
 
 00:39:59.966 --> 00:40:01.326 A:middle
 All right, let's play a game.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3260,6 +3340,8 @@ All right, let me redeem myself.
 
 00:40:56.516 --> 00:41:00.026 A:middle
 [ Laughter ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3339,6 +3421,8 @@ time studying water colors,
 00:41:59.506 --> 00:42:01.976 A:middle
 the physics of it, the
 dynamics, how it dries
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3439,6 +3523,8 @@ interesting to note that a lot
 00:42:59.676 --> 00:43:03.876 A:middle
 of the conceptualization and the
 artistry was done on an iPad Pro
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3504,6 +3590,8 @@ it's thoughtful,
 00:43:59.416 --> 00:44:01.996 A:middle
 and in so many ways
 they took little things
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3589,6 +3677,8 @@ talk about the Apple TV app.
 00:44:57.116 --> 00:45:01.866 A:middle
 So with Apple TV, they didn't
 just upsize the content.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3659,6 +3749,8 @@ Let's go into this workout here.
 00:45:59.336 --> 00:46:02.146 A:middle
 So, here, you get
 a brief description
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3735,6 +3827,8 @@ interesting is I'm now pressing
 00:46:58.456 --> 00:47:02.026 A:middle
 and holding onto the Pause
 button, and instead I'm provided
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3804,6 +3898,8 @@ video stream here.
 00:47:57.846 --> 00:47:59.376 A:middle
 So that's my heartrate
 you're looking at.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3874,6 +3970,8 @@ And back to you, John.
 
 00:48:58.516 --> 00:49:03.886 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3932,6 +4030,8 @@ with your words.
 00:49:57.716 --> 00:50:00.336 A:middle
 And the execution of
 this app is so great.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4027,6 +4127,8 @@ interface guidelines
 00:50:59.796 --> 00:51:02.186 A:middle
 that navigation has
 two hash marks,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4111,6 +4213,8 @@ all of my writing.
 00:51:58.316 --> 00:52:02.196 A:middle
 For example, here I have a
 group of public domain books.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4202,6 +4306,8 @@ delivery-agnostic,
 00:52:59.666 --> 00:53:01.486 A:middle
 so it doesn't matter where
 you're going to deliver from.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4287,6 +4393,8 @@ So, congratulations.
 
 00:53:59.516 --> 00:53:59.866 A:middle
 Back to you, John.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4355,6 +4463,8 @@ Good. Congratulations.
 
 00:54:56.516 --> 00:55:02.596 A:middle
 [ Music ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4438,6 +4548,8 @@ been visually impaired.
 00:55:58.376 --> 00:56:00.156 A:middle
 But during high school
 and college,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4529,6 +4641,8 @@ colorful lights coming
 00:56:58.406 --> 00:57:00.926 A:middle
 from the deejay controller,
 but that's about it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4615,6 +4729,8 @@ it the first time --
 
 00:57:53.736 --> 00:57:55.806 A:middle
 but the second time.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4662,6 +4778,8 @@ Here we go.
 
 00:58:57.516 --> 00:59:11.756 A:middle
 [ Music ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4728,6 +4846,8 @@ Thank you so much, John!
 
 00:59:59.516 --> 01:00:04.576 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4792,6 +4912,8 @@ couldn't do before.
 01:00:59.536 --> 01:01:02.916 A:middle
 And all of them are
 incredibly well-designed
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4865,6 +4987,8 @@ so many of you
 01:01:58.336 --> 01:02:00.626 A:middle
 and to see your apps
 come along and then some
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4931,6 +5055,8 @@ about storytelling --
 
 01:02:57.576 --> 01:03:00.156 A:middle
 and in particular, comics.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4999,6 +5125,8 @@ Guidelines, the Comic Book.
 01:03:58.056 --> 01:04:02.396 A:middle
 OK. Apple has put a lot of
 thought into reorganizing
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -5071,6 +5199,8 @@ your printed comic book tonight.
 
 01:04:59.306 --> 01:05:02.226 A:middle
 Oh, yes, hard to believe.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -5111,6 +5241,8 @@ Here's a sneak peek.
 01:05:59.046 --> 01:06:02.786 A:middle
 So, look out for the App Review
 Guidelines motion book coming
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -5192,6 +5324,8 @@ that we've got from this event.
 01:06:59.746 --> 01:07:02.746 A:middle
 Thank you for joining us
 from around the world.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -5243,3 +5377,5 @@ week and good night.
 
 01:07:36.516 --> 01:07:44.500 A:middle
 [ Applause ]
+
+

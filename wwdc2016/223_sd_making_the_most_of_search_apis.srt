@@ -48,6 +48,8 @@ App Store, Maps and Wikipedia.
 00:00:56.406 --> 00:01:00.336 A:middle
 And then in iOS 9 we
 significantly increased the
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -128,6 +130,8 @@ messages and go to Home screen,
 00:01:57.986 --> 00:02:01.176 A:middle
 pull down Spotlight, they can
 simply drag Spotlight on top
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -191,6 +195,8 @@ results from the internet.
 00:02:58.576 --> 00:03:00.536 A:middle
 Now, another neat
 feature that we've added
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -281,6 +287,8 @@ Search APIs in iOS 9.
 00:03:59.096 --> 00:04:00.806 A:middle
 There's CoreSpotlight,
 which allows you
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -356,6 +364,8 @@ It's really incredible.
 00:04:58.166 --> 00:05:01.446 A:middle
 I think something really
 neat to see is how the users
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -442,6 +452,8 @@ I made on Open Table.
 00:05:56.946 --> 00:06:00.506 A:middle
 I can find more information
 by tapping on these results,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -512,6 +524,8 @@ share is around contacts.
 00:06:56.726 --> 00:07:00.406 A:middle
 Contacts is one of the most
 popular search use cases
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -583,6 +597,8 @@ look at an example
 
 00:07:59.736 --> 00:08:01.176 A:middle
 of Universal Links index.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -653,6 +669,8 @@ in Search APIs in iOS 10.
 00:08:59.616 --> 00:09:04.656 A:middle
 The first feature we are adding
 is called Continue Search
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -718,6 +736,8 @@ all these items
 00:09:57.296 --> 00:10:00.756 A:middle
 to Spotlight's search
 index by CoreSpotlight API.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -796,6 +816,8 @@ into these new features.
 00:10:56.196 --> 00:10:59.526 A:middle
 &gt;&gt; Let's start talking about
 how to leverage the Search APIs.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -873,6 +895,8 @@ NSUserActivity for app history.
 00:11:59.666 --> 00:12:01.836 A:middle
 And Universal Links
 with web markup
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -951,6 +975,8 @@ user's private content.
 00:12:59.166 --> 00:13:01.546 A:middle
 Your app is in charge and
 you decide what you want
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1015,6 +1041,8 @@ for any future operations
 00:13:58.506 --> 00:14:00.926 A:middle
 and which is also used when we
 launch your application later.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1083,6 +1111,8 @@ content for your application.
 00:14:58.326 --> 00:15:00.426 A:middle
 This is useful if
 you have something
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1166,6 +1196,8 @@ you've set an expiration date
 00:15:55.176 --> 00:15:58.296 A:middle
 and Spotlight wants to check
 that the item has truly expired.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1249,6 +1281,8 @@ we might call you again,
 
 00:16:59.766 --> 00:17:02.556 A:middle
 and if you call it early,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1314,6 +1348,8 @@ example, the sequence number
 00:17:57.986 --> 00:18:00.616 A:middle
 that you then as a client
 state with Spotlight.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1398,6 +1434,8 @@ items as usual.
 00:18:57.606 --> 00:19:00.826 A:middle
 The completionHandler is not
 particularly important here
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1471,6 +1509,8 @@ deal with any errors
 00:19:57.146 --> 00:19:59.906 A:middle
 and check whether the state you
 got back is what you desired.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1541,6 +1581,8 @@ CoreSpotlight extensions.
 00:20:58.776 --> 00:21:01.406 A:middle
 The extension can index
 when your app isn't running.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1617,6 +1659,8 @@ accumulating in the index.
 00:21:55.146 --> 00:21:59.346 A:middle
 CoreSpotlight will call your
 app around the expiration date
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1686,6 +1730,8 @@ a representation
 00:22:58.506 --> 00:23:01.346 A:middle
 of your application's current
 state that can be passed
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1760,6 +1806,8 @@ property to true.
 00:23:56.876 --> 00:24:02.216 A:middle
 You can also mark NSUserActivity
 as eligible for public indexing
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1834,6 +1882,8 @@ same content to help ranking
 00:24:59.216 --> 00:25:00.936 A:middle
 and avoid duplication
 of the results.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1904,6 +1954,8 @@ related item doesn't exist yet.
 00:25:58.356 --> 00:26:01.036 A:middle
 To solve this, we're
 adding a new property,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1974,6 +2026,8 @@ delete NSUserActivities
 
 00:26:58.426 --> 00:26:59.676 A:middle
 by the domainIdentifier,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2050,6 +2104,8 @@ be shown in both Spotlight
 00:27:58.316 --> 00:28:00.586 A:middle
 and Safari, which makes
 your content available
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2128,6 +2184,8 @@ Search APIs Session from 2015
 00:28:59.026 --> 00:29:04.476 A:middle
 and the Developer documentation
 on Universal Links.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2196,6 +2254,8 @@ chance that you'll want
 00:29:52.586 --> 00:29:56.736 A:middle
 to use them all together
 even for the same content.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2270,6 +2330,8 @@ to the user.
 00:30:59.596 --> 00:31:02.196 A:middle
 To get a great presentation
 in Spotlight you want
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2348,6 +2410,8 @@ helpful as well.
 00:31:57.156 --> 00:31:59.786 A:middle
 If you set the right content
 type for your content,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2410,6 +2474,8 @@ or from the local device index.
 00:32:58.046 --> 00:33:01.106 A:middle
 A great user experience is not
 just about the presentation,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2487,6 +2553,8 @@ that impede the user.
 
 00:33:58.726 --> 00:33:59.976 A:middle
 Let's look at some examples.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2558,6 +2626,8 @@ with continueUserActivity.
 00:34:58.006 --> 00:35:00.126 A:middle
 You examine the NSUserActivity's
 activity type
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2639,6 +2709,8 @@ feature to allow the user
 00:35:58.996 --> 00:36:03.426 A:middle
 to continue search
 right in your app.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2705,6 +2777,8 @@ own application you need
 00:36:57.496 --> 00:37:01.846 A:middle
 to add a key to your
 info.plist which declares
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2781,6 +2855,8 @@ many of our own internal apps.
 00:37:57.236 --> 00:38:00.146 A:middle
 CoreSpotlight Search API
 makes it easy for you
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2865,6 +2941,8 @@ and to make complex queries.
 00:38:58.366 --> 00:39:00.356 A:middle
 This is a great way to
 take advantage of the power
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2951,6 +3029,8 @@ search, you add the c flag.
 00:39:56.056 --> 00:39:59.676 A:middle
 If you want to ignore
 diacritics, such as umlauts,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3032,6 +3112,8 @@ and t operators,
 00:40:59.346 --> 00:41:01.986 A:middle
 which creates a case
 insensitive, locale aware,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3104,6 +3186,8 @@ We've built an application.
 00:41:55.136 --> 00:41:56.976 A:middle
 There is a simple
 picture gathering.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3158,6 +3242,8 @@ for the CSSearchQueryString.
 00:42:59.506 --> 00:43:02.666 A:middle
 We can then activate
 our view controller
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3207,6 +3293,8 @@ but only one result in my app,
 00:43:56.966 --> 00:44:02.896 A:middle
 and this is because I'm not
 using CoreSpotlight Search.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3247,6 +3335,8 @@ currently running query,
 00:44:53.426 --> 00:45:02.766 A:middle
 escape the query
 string and create --
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3293,6 +3383,8 @@ I can actually display.
 00:45:55.846 --> 00:46:01.226 A:middle
 So let's look at what
 that would look like.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3365,6 +3457,8 @@ table view update.
 00:46:58.276 --> 00:46:59.976 A:middle
 With that, all that remains
 is to call the start.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3425,6 +3519,8 @@ overview of Search APIs.
 00:47:59.586 --> 00:48:02.816 A:middle
 As you are thinking about
 implementing these APIs
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3502,6 +3598,8 @@ engagement ratio per query,
 
 00:48:59.816 --> 00:49:02.206 A:middle
 which is based on every query
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3572,6 +3670,8 @@ is content popularity.
 00:49:57.706 --> 00:50:00.926 A:middle
 In general, items
 that are more popular,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3663,6 +3763,8 @@ as well as Universal Links.
 00:50:59.136 --> 00:51:01.376 A:middle
 When a user encounters
 the deep link from Yelp,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3739,6 +3841,8 @@ content well with CoreSpotlight.
 00:51:58.726 --> 00:52:01.586 A:middle
 You should follow these because
 they will provide a consistent
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3817,6 +3921,8 @@ engagement rates.
 00:52:57.746 --> 00:53:01.316 A:middle
 And finally, when appropriate,
 implement Continue Search in App
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3894,6 +4000,8 @@ yesterday on SiriKit APIs.
 00:53:59.646 --> 00:54:01.336 A:middle
 You can find this on
 the conference website.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3929,3 +4037,5 @@ Enjoy the rest of the WWDC.
 
 00:54:20.516 --> 00:54:30.130 A:middle
 [ Applause ]
+
+

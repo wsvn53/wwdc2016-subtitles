@@ -53,6 +53,8 @@ things we're going to look at.
 00:00:58.256 --> 00:01:02.626 A:middle
 The NSURLSession API provides
 really a rich set of classes
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -134,6 +136,8 @@ apps even more incredible.
 00:01:56.086 --> 00:02:02.946 A:middle
 Now, let's start by looking at
 the highest level APIs available
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -216,6 +220,8 @@ very minimal maintenance.
 00:02:57.506 --> 00:03:02.346 A:middle
 But prior to the official
 deprecation at WWDC 2013,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -283,6 +289,8 @@ NSURLSession API
 00:03:57.856 --> 00:04:00.756 A:middle
 and recommending that
 your apps use this API.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -357,6 +365,8 @@ aspects of ATS is
 00:04:59.856 --> 00:05:03.166 A:middle
 that your apps must
 use the HTTPS protocol.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -432,6 +442,8 @@ authentication challenges,
 00:05:59.876 --> 00:06:02.036 A:middle
 all these things are
 built into NSURLSession.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -508,6 +520,8 @@ that your app wants to support.
 00:06:57.246 --> 00:07:02.666 A:middle
 We default the minimum TLS to
 1.0 and the maximum TLS to 1.2.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -590,6 +604,8 @@ ephemeral cache,
 00:07:59.826 --> 00:08:02.746 A:middle
 persistent cache that's
 used between app launches.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -670,6 +686,8 @@ from a code perspective.
 00:08:57.806 --> 00:09:00.486 A:middle
 So very simply, the first
 thing we do is we're going
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -758,6 +776,8 @@ finished loading
 00:09:59.196 --> 00:10:02.746 A:middle
 and the requested
 resource is returned to us.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -833,6 +853,8 @@ many tasks.
 00:10:59.566 --> 00:11:01.296 A:middle
 So of course, you can
 have multiple sessions.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -907,6 +929,8 @@ of HTTP/2 is multiplexing
 
 00:11:58.956 --> 00:12:00.356 A:middle
 and concurrency support.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -985,6 +1009,8 @@ feature that we have
 
 00:12:59.856 --> 00:13:02.196 A:middle
 to take a look at of HTTP/2.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1057,6 +1083,8 @@ your attention something
 00:13:59.896 --> 00:14:03.396 A:middle
 that the server obviously
 has to support this protocol,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1140,6 +1168,8 @@ for our application.
 00:14:58.996 --> 00:15:02.396 A:middle
 So, first our app is
 going to resume a task.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1221,6 +1251,8 @@ background.jpg.
 00:15:56.456 --> 00:16:01.386 A:middle
 Our application is now finished
 with its network loading.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1290,6 +1322,8 @@ from the original request.
 00:16:58.496 --> 00:17:02.016 A:middle
 When our application
 resumes the second task
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1363,6 +1397,8 @@ able to save the latency cost
 00:17:59.776 --> 00:18:03.386 A:middle
 of network round trips needed
 when requesting resources.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1427,6 +1463,8 @@ most popular picture
 
 00:18:58.316 --> 00:18:59.786 A:middle
 for a certain photographer.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1502,6 +1540,8 @@ and now I'm going to switch
 00:19:59.616 --> 00:20:05.156 A:middle
 to this mode, as Jeff explained
 previously, the requesting
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1564,6 +1604,8 @@ Well, let me show you that.
 00:20:55.626 --> 00:20:59.836 A:middle
 Now the demo application is
 going to provide the results.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1630,6 +1672,8 @@ loads side by side.
 
 00:21:56.736 --> 00:21:57.976 A:middle
 Well, let me show you that.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1693,6 +1737,8 @@ And now, back to Jeff.
 
 00:22:59.516 --> 00:23:03.666 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1767,6 +1813,8 @@ We have any statistic people?
 00:23:59.046 --> 00:24:00.496 A:middle
 We got some folks
 that love statistics?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1870,6 +1918,8 @@ you better understanding
 00:24:59.156 --> 00:25:02.486 A:middle
 of what your networking is doing
 inside of your application.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1948,6 +1998,8 @@ and are ready to be delivered
 00:25:59.776 --> 00:26:01.926 A:middle
 to your
 didFinishCollectingMetrics
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2033,6 +2085,8 @@ that Request and Response.
 00:26:58.376 --> 00:27:02.986 A:middle
 There's two properties here
 called Request" and "Response.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2108,6 +2162,8 @@ And the isReusedConnection.
 
 00:27:59.166 --> 00:28:00.976 A:middle
 This property is set to Yes
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2190,6 +2246,8 @@ and transmission.
 00:28:57.576 --> 00:29:01.226 A:middle
 Now, the first group of
 metrics measure time related
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2284,6 +2342,8 @@ a resource.
 00:29:58.706 --> 00:30:01.016 A:middle
 A fetch could be satisfied
 from a local cache,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2365,6 +2425,8 @@ for that.
 00:30:59.186 --> 00:31:01.526 A:middle
 The secureConnectionStart
 metric,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2452,6 +2514,8 @@ HTTP header began transmission.
 00:31:57.886 --> 00:32:00.676 A:middle
 requestEnd is the time
 when the last byte
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2538,6 +2602,8 @@ at these statistics.
 00:32:59.496 --> 00:33:03.776 A:middle
 Now, you might be asking,
 "Okay, this is really cool.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2634,6 +2700,8 @@ of it.
 00:33:59.786 --> 00:34:02.336 A:middle
 Now, we're going to create a
 default configuration object.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2710,6 +2778,8 @@ again, the dataTask method.
 00:34:57.526 --> 00:35:00.936 A:middle
 And this requires a
 closure as a parameter.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2794,6 +2864,8 @@ debugging and development
 00:35:58.826 --> 00:36:00.456 A:middle
 to be able to get, you
 know, fix your apps
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2879,6 +2951,8 @@ to achieve this protection.
 00:36:59.096 --> 00:37:01.226 A:middle
 Ciphers scramble
 data on one side --
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2967,6 +3041,8 @@ kind of test this theory out.
 00:37:59.316 --> 00:38:02.786 A:middle
 There is a command line
 tool on macOS called nscurl.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3053,6 +3129,8 @@ the point here.
 00:38:59.056 --> 00:39:01.976 A:middle
 The RC4 cipher is no longer
 supported on our platforms.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3141,6 +3219,8 @@ Now, this requires that certs
 00:39:59.796 --> 00:40:03.366 A:middle
 that your app receives must
 support these certificate
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3224,6 +3304,8 @@ I introduced Network Statistics.
 00:40:59.456 --> 00:41:02.596 A:middle
 Now you can introspect your
 application network behavior
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3310,3 +3392,5 @@ Thank you.
 
 00:41:54.508 --> 00:41:56.508 A:middle
 [ Applause ]
+
+

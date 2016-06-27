@@ -63,6 +63,8 @@ live stream around the world,
 00:00:57.286 --> 00:01:00.046 A:middle
 as well as you future viewers
 watching this recording
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -155,6 +157,8 @@ need to have evaluated all
 00:01:59.436 --> 00:02:02.786 A:middle
 of the new hardware, software,
 and tools options even earlier.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -241,6 +245,8 @@ earlier this year agrees
 00:02:59.496 --> 00:03:02.206 A:middle
 that Apple School Manager will
 save their tech staff lots
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -319,6 +325,8 @@ experience for each student.
 
 00:03:58.226 --> 00:03:59.316 A:middle
 Again, nailed it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -404,6 +412,8 @@ going on his classroom.
 00:04:58.476 --> 00:05:00.646 A:middle
 Classroom helps him to keep
 all of his students accountable
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -494,6 +504,8 @@ thousands of students
 00:05:59.016 --> 00:06:02.216 A:middle
 around the world to
 join with us to ensure
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -582,6 +594,8 @@ commands and settings
 00:06:59.176 --> 00:07:01.476 A:middle
 in the spring and
 that I'm going to talk
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -663,6 +677,8 @@ that have those relationships
 00:07:59.786 --> 00:08:02.516 A:middle
 between which teachers have
 which students in their classes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -744,6 +760,8 @@ which can be enabled
 00:08:58.116 --> 00:09:02.216 A:middle
 if the school decides they
 would like to use them.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -834,6 +852,8 @@ API v3 by including
 
 00:09:59.856 --> 00:10:01.086 A:middle
 that information in the header.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -924,6 +944,8 @@ manual merging of records
 00:10:58.076 --> 00:11:01.196 A:middle
 to be able to tell you this
 directory user is the same user
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1004,6 +1026,8 @@ your users an opportunity
 00:11:56.186 --> 00:12:00.956 A:middle
 to request a sync, you're going
 to need to throttle that so
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1090,6 +1114,8 @@ about a new feature
 00:12:58.116 --> 00:13:00.796 A:middle
 in iOS 9 called enrollment
 optimization.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1176,6 +1202,8 @@ action in users signing in.
 00:13:56.276 --> 00:14:00.146 A:middle
 At that point the Shared iPad
 will send a token update back
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1253,6 +1281,8 @@ but we also added AES support.
 00:14:57.706 --> 00:15:01.946 A:middle
 So the message here is that your
 SCEP servers should support 3DES
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1336,6 +1366,8 @@ to fetch the anchor certs.
 00:15:59.206 --> 00:16:01.426 A:middle
 Profile Manager has supported
 this for some time now
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1414,6 +1446,8 @@ you'll want to deploy apps
 00:16:58.306 --> 00:17:01.086 A:middle
 and install them using device
 assignments, which we added
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1507,6 +1541,8 @@ uploaded to the Cloud,
 00:17:59.326 --> 00:18:02.586 A:middle
 Shared iPad will continue to
 upload that data at the log
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1587,6 +1623,8 @@ student then signs in
 
 00:18:59.066 --> 00:19:01.886 A:middle
 and begins downloading his data,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1672,6 +1710,8 @@ each of those six users,
 00:19:59.066 --> 00:20:01.706 A:middle
 taking into account
 space reserved for iOS,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1765,6 +1805,8 @@ balance between ease of use
 00:20:59.866 --> 00:21:02.416 A:middle
 for their students and data
 security for their students.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1854,6 +1896,8 @@ I'll cover in a moment.
 00:21:58.986 --> 00:22:03.076 A:middle
 In fact, if your MDM solution
 is already sending commands
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1937,6 +1981,8 @@ auto-fill domains enhancement
 00:22:59.486 --> 00:23:02.656 A:middle
 to the domains payload that
 we introduced in iOS 9.3.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2026,6 +2072,8 @@ David, take it away.
 
 00:23:58.516 --> 00:24:01.736 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2110,6 +2158,8 @@ to our recent users.
 00:24:59.096 --> 00:25:02.656 A:middle
 Here we have Ava, a
 second-grader, and Liam,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2206,6 +2256,8 @@ and Notes in the dock
 00:25:59.646 --> 00:26:02.596 A:middle
 because those are the most-used
 applications by second-graders.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2286,6 +2338,8 @@ at the log in screen
 00:26:56.966 --> 00:26:59.606 A:middle
 or when another user is
 logged in is prepared then.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2379,6 +2433,8 @@ but he now has Maps and Safari
 00:27:59.206 --> 00:28:01.236 A:middle
 because the third-graders
 are studying the geography
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2470,6 +2526,8 @@ and it's synced and available
 00:28:59.116 --> 00:29:01.306 A:middle
 across multiple devices
 throughout their school.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2559,6 +2617,8 @@ And let's get right to it.
 00:29:58.246 --> 00:30:01.696 A:middle
 So there's a great new feature
 tied to Managed Apple IDs
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2643,6 +2703,8 @@ match, and you'll need to fix
 00:30:59.166 --> 00:31:01.256 A:middle
 that before we can
 give you this feature."
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2733,6 +2795,8 @@ downloading them repeatedly.
 00:31:59.196 --> 00:32:02.516 A:middle
 In contrast, non-iBook
 Store books like PDFs
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2804,6 +2868,8 @@ explicitly trust the app signer.
 00:32:55.716 --> 00:32:59.486 A:middle
 However, if the device
 is enrolled in MDM,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2896,6 +2962,8 @@ application list at a sync
 00:33:59.446 --> 00:34:03.146 A:middle
 that are not validated, and that
 will keep them all running all
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2982,6 +3050,8 @@ about this earlier.
 00:34:57.346 --> 00:35:01.756 A:middle
 You can now also toggle
 diagnostic submission via MDM.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3064,6 +3134,8 @@ ID associated with them,
 00:35:56.556 --> 00:36:00.806 A:middle
 MDM Activation Lock is also a
 great option to prevent theft.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3159,6 +3231,8 @@ payload allows you
 00:36:59.626 --> 00:37:02.406 A:middle
 to specify a custom
 footnote that appears both
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3233,6 +3307,8 @@ of notification settings,
 00:37:59.166 --> 00:38:01.606 A:middle
 which you may have set using
 the notifications payload,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3311,6 +3387,8 @@ to note that student
 00:38:59.996 --> 00:39:02.466 A:middle
 and teacher devices
 require different payloads.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3391,6 +3469,8 @@ will actually return pass code
 00:39:58.446 --> 00:40:02.016 A:middle
 lock grace period and pass code
 lock grace period enforced.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3468,6 +3548,8 @@ unmanaged, unsupervised devices.
 00:40:59.766 --> 00:41:03.356 A:middle
 Of course, we do
 have a safe escape
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3544,6 +3626,8 @@ such payloads,
 00:41:59.786 --> 00:42:02.646 A:middle
 but we like MDM vendors to
 adopt these new key names
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3616,6 +3700,8 @@ So here are some restrictions
 00:42:58.836 --> 00:43:01.316 A:middle
 that were introduced before
 supervision was created.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3687,6 +3773,8 @@ introduced a new configuration
 00:43:56.546 --> 00:44:00.336 A:middle
 profile payload to
 configure the IP firewall
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3779,6 +3867,8 @@ list on the slide.
 00:44:57.866 --> 00:45:00.896 A:middle
 I'd like to ask Shruti Gupta to
 come on up and give you a demo.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3859,6 +3949,8 @@ Navigate, Safari, Favorites,
 00:45:55.076 --> 00:45:56.856 A:middle
 and select the healthy
 eating article.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3930,6 +4022,8 @@ name, let's say Greens.
 00:46:57.066 --> 00:47:01.586 A:middle
 Now when I launch
 this particular group
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4002,6 +4096,8 @@ the Lock button and tapping
 00:47:57.146 --> 00:48:00.366 A:middle
 on the Notes so she
 remains focused on her task.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4094,6 +4190,8 @@ Program
 00:48:58.076 --> 00:49:01.356 A:middle
 and Volume Purchase Program,
 which are a great way for them
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4181,6 +4279,8 @@ allows you to connect devices
 00:49:59.876 --> 00:50:02.916 A:middle
 to Configurator and complete
 the setup assistant based
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4254,6 +4354,8 @@ and preferences in the Cloud.
 00:50:57.806 --> 00:51:00.686 A:middle
 And you can simulate
 testing on a Shared iPad
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4325,3 +4427,5 @@ great rest of WWDC.
 
 00:51:48.906 --> 00:51:49.756 A:middle
 Thank you very much.
+
+

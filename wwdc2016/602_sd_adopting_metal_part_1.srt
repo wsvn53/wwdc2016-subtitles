@@ -55,6 +55,8 @@ than Metal.framework.
 00:00:59.276 --> 00:01:04.936 A:middle
 Metal is supported by additional
 frameworks and tools and so on.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -124,6 +126,8 @@ and see exactly what's going on.
 00:01:56.816 --> 00:02:00.096 A:middle
 Metal System Trace in
 Instruments allows you
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -203,6 +207,8 @@ important component
 00:02:59.086 --> 00:03:02.426 A:middle
 in key system applications
 like Preview and Safari.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -284,6 +290,8 @@ stunning results.
 00:03:58.046 --> 00:04:00.956 A:middle
 And this year at WWDC, we
 want to give you the tools
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -371,6 +379,8 @@ of these in detail,
 00:04:59.346 --> 00:05:01.126 A:middle
 but if you're interested in
 implementing any of these
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -463,6 +473,8 @@ with Shaders and so on.
 00:05:58.446 --> 00:06:00.106 A:middle
 And also of course
 that you're interested
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -562,6 +574,8 @@ the hardware and driver.
 
 00:06:58.746 --> 00:07:00.326 A:middle
 Favor explicit over implicit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -649,6 +663,8 @@ lot of responsibility,
 00:07:57.786 --> 00:08:00.466 A:middle
 but with great responsibility
 comes great performance.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -734,6 +750,8 @@ at load time, so you don't pay
 00:08:59.616 --> 00:09:01.196 A:middle
 that cost every time
 you issue a draw call.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -820,6 +838,8 @@ the GPU can access it,
 00:09:58.486 --> 00:09:59.846 A:middle
 so that you can issue
 your draw calls.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -903,6 +923,8 @@ that you've already created.
 00:10:58.776 --> 00:11:00.786 A:middle
 And you simply call
 newBufferWithLength
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -993,6 +1015,8 @@ So this is the coordinate space
 00:11:58.046 --> 00:11:59.406 A:middle
 that we'll specify
 our vertices in.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1076,6 +1100,8 @@ than just 3D graphics with it.
 00:12:58.236 --> 00:13:01.046 A:middle
 It really just lets you
 write programs for the GPU.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1164,6 +1190,8 @@ later on for our 3D demo.
 00:13:59.016 --> 00:14:01.166 A:middle
 Now, I've mentioned a couple
 of times that Metal allows you
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1270,6 +1298,8 @@ that we just discussed,
 00:14:59.896 --> 00:15:02.556 A:middle
 which is to build
 a default.Metallib
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1361,6 +1391,8 @@ function qualifier called
 00:15:55.276 --> 00:16:01.836 A:middle
 kernel, that signifies a data
 parallel of compute function.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1453,6 +1485,8 @@ can even pay the cost
 00:16:59.356 --> 00:17:01.266 A:middle
 of recompiling Shaders
 at runtime.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1553,6 +1587,8 @@ Metal RenderPipelineState.
 00:17:59.886 --> 00:18:01.856 A:middle
 It represents the
 sort of configuration
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1649,6 +1685,8 @@ of texture that will be rendered
 00:18:59.746 --> 00:19:01.346 A:middle
 into when we actually
 do our drawing.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1741,6 +1779,8 @@ when we do our drawing.
 00:19:59.836 --> 00:20:02.006 A:middle
 And finally, once
 we've constructed
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1837,6 +1877,8 @@ for MetalKit called MTKView.
 00:20:59.736 --> 00:21:02.806 A:middle
 And MTKView is a
 cross-platform, view class.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1923,6 +1965,8 @@ internal queue, and then reused
 00:21:59.616 --> 00:22:02.156 A:middle
 across frames because they're
 comparatively expensive
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2021,6 +2065,8 @@ what you have to do in order
 
 00:22:59.586 --> 00:23:02.086 A:middle
 to become an MTKView delegate.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2106,6 +2152,8 @@ started, because it takes care
 
 00:23:59.136 --> 00:24:00.016 A:middle
 of a lot of things for you.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2209,6 +2257,8 @@ It's important to realize
 00:24:59.466 --> 00:25:01.696 A:middle
 that these command encoders
 perform no deferred state
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2302,6 +2352,8 @@ resources and pipeline states,
 00:25:59.926 --> 00:26:02.166 A:middle
 queues are persistent objects
 that you'll want to create
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2387,6 +2439,8 @@ and these are each enqueued
 00:26:59.976 --> 00:27:02.106 A:middle
 onto a Command Queue for
 scheduling by the driver.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2479,6 +2533,8 @@ perform draw calls.
 00:27:58.016 --> 00:28:00.526 A:middle
 A Compute Command Encoder
 will allow you to enqueue work
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2566,6 +2622,8 @@ rendering, then one or more
 00:28:59.026 --> 00:29:01.566 A:middle
 of the render targets in
 this pass might become inputs
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2653,6 +2711,8 @@ road and you actually have
 00:29:56.106 --> 00:29:59.376 A:middle
 to give us the textures that
 we're going to be drawing into.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2745,6 +2805,8 @@ actually be written back
 
 00:30:59.416 --> 00:31:00.956 A:middle
 to memory and stored.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2840,6 +2902,8 @@ that you're going
 00:31:58.686 --> 00:32:00.956 A:middle
 to actually be setting every
 single pixel to some value.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2936,6 +3000,8 @@ next drawable function,
 00:32:57.606 --> 00:33:00.486 A:middle
 which we won't talk about in
 detail now, but which is used
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3032,6 +3098,8 @@ that are available
 00:33:59.556 --> 00:34:02.176 A:middle
 in any given argument table
 are actually dependent upon
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3117,6 +3185,8 @@ that we just set back
 
 00:34:58.476 --> 00:34:59.536 A:middle
 on our Render Command Encoder.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3200,6 +3270,8 @@ straight on through.
 00:35:54.666 --> 00:35:59.876 A:middle
 So, the first parameter to this
 function is a list of vertices
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3290,6 +3362,8 @@ the fragmentFunction.
 
 00:36:59.406 --> 00:37:00.576 A:middle
 It's even simpler.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3379,6 +3453,8 @@ but we're actually
 00:37:56.966 --> 00:38:00.166 A:middle
 about to see some draw
 calls happen, right now.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3473,6 +3549,8 @@ a render pass,
 00:38:55.946 --> 00:38:59.326 A:middle
 we simple call it endEncoding
 on the Render Command Encoder.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3558,6 +3636,8 @@ pass in that drawable,
 
 00:39:59.716 --> 00:40:01.606 A:middle
 and that will be displayed
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3642,6 +3722,8 @@ triangle demo as you can tell
 00:40:57.466 --> 00:41:00.366 A:middle
 by our awesome title,
 is very simple.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3736,6 +3818,8 @@ to the awesome Metal tools.
 00:41:57.496 --> 00:42:00.356 A:middle
 So when you do a frame
 capture, this will then sort all
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3842,6 +3926,8 @@ to your Warren.
 
 00:42:58.516 --> 00:43:02.436 A:middle
 &gt;&gt; Thanks Matt.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3923,6 +4009,8 @@ apply the texture map.
 
 00:43:58.246 --> 00:44:00.636 A:middle
 So, here's our extended vertex.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4000,6 +4088,8 @@ us what size it is.
 00:44:59.996 --> 00:45:04.216 A:middle
 And Metal will create
 and or reuse a buffer
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4084,6 +4174,8 @@ Metal will copy that into again,
 00:45:57.316 --> 00:46:00.206 A:middle
 this implicit buffer that's
 going to be used for drawing
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4170,6 +4262,8 @@ called a MeshBufferAllocator.
 00:46:57.516 --> 00:47:00.116 A:middle
 So MTKMeshBufferAllocator
 is the glue
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4253,6 +4347,8 @@ the fact that it's very easy
 00:47:57.196 --> 00:47:59.836 A:middle
 to use Model I/O to
 generate procedural geometry
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4343,6 +4439,8 @@ not you want it to be mipmapped.
 00:48:59.016 --> 00:49:02.226 A:middle
 You can then ask
 for a new texture
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4442,6 +4540,8 @@ texture Loader.newTexture,
 00:49:57.666 --> 00:50:00.426 A:middle
 and hand it to data, and it will
 hand you back a Metal texture.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4534,6 +4634,8 @@ Sampler State Object,
 00:50:59.606 --> 00:51:03.686 A:middle
 that we can subsequently use to
 bind and sample from a texture.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4625,6 +4727,8 @@ language code that corresponds
 00:51:58.996 --> 00:52:01.146 A:middle
 to the constant struct that
 we created in our SWF code,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4726,6 +4830,8 @@ that corresponds to the texture
 
 00:52:59.476 --> 00:53:00.696 A:middle
 that we've created and bound,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4815,6 +4921,8 @@ by the lighting intensity,
 00:53:56.336 --> 00:54:00.356 A:middle
 to result in an animated
 textured lit cube.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4922,6 +5030,8 @@ and the texture coordinates
 00:54:59.396 --> 00:55:00.606 A:middle
 which we need to
 apply the texture.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -5014,6 +5124,8 @@ positions of our vertices.
 00:55:58.416 --> 00:56:00.496 A:middle
 Put the texture, the
 samplers, and issue your Draws.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -5097,6 +5209,8 @@ of course, we want you to push
 00:56:57.666 --> 00:57:00.656 A:middle
 as much expensive work
 up front as possible.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -5192,8 +5306,12 @@ that I mentioned.
 00:57:57.736 --> 00:57:59.976 A:middle
 So thank you, and
 have a wonderful WWDC.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
 00:58:00.016 --> 00:58:02.000 A:middle
 [ Applause ]
+
+

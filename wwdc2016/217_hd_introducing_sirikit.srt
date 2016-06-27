@@ -52,6 +52,8 @@ graphical user interface.
 00:00:58.076 --> 00:01:00.206 A:middle
 But first, let's
 talk about Siri.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -132,6 +134,8 @@ Then you might say,
 00:01:58.006 --> 00:01:59.936 A:middle
 of the Unicorn names of
 one of my colleagues.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -225,6 +229,8 @@ to send the message to.
 00:02:56.936 --> 00:03:00.836 A:middle
 And then even then, they
 would be incredibly verbose
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -325,6 +331,8 @@ everyone in this room,
 00:03:59.036 --> 00:04:00.726 A:middle
 how do we make sure it's
 nice and easy to adopt,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -429,6 +437,8 @@ The first one is vocabulary.
 00:04:58.766 --> 00:05:01.136 A:middle
 This is how your application
 tells Siri words Siri needs
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -544,6 +554,8 @@ says yes,
 00:05:59.986 --> 00:06:01.656 A:middle
 then Siri will ask a
 follow up question.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -637,6 +649,8 @@ also known to me, as Celestra.
 
 00:06:57.516 --> 00:07:03.566 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -726,6 +740,8 @@ a little bit more detail
 00:07:59.656 --> 00:08:01.116 A:middle
 than what Robby was
 just talking about.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -813,6 +829,8 @@ the user's location,
 00:08:58.666 --> 00:09:01.386 A:middle
 their Siri locale, and
 other information available
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -900,6 +918,8 @@ started with adopting SiriKit
 00:09:57.986 --> 00:10:00.686 A:middle
 in your application, is look
 at the domains that are a part
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -986,6 +1006,8 @@ an app launch.
 00:10:57.096 --> 00:10:59.616 A:middle
 Some intents and domains have
 more specific error codes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1072,6 +1094,8 @@ and intent responses.
 00:11:59.316 --> 00:12:02.176 A:middle
 They're the fundamental
 language that Siri uses to talk
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1157,6 +1181,8 @@ about the resolve stages first.
 00:12:59.336 --> 00:13:01.506 A:middle
 The purpose of the
 resolve stage,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1247,6 +1273,8 @@ common resolution response
 
 00:13:59.156 --> 00:14:00.916 A:middle
 from your app will be success.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1338,6 +1366,8 @@ to pick from a list of options,
 00:14:58.066 --> 00:15:00.156 A:middle
 we recommend five
 to ten at most.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1432,6 +1462,8 @@ that you need more details,
 00:15:57.076 --> 00:15:59.746 A:middle
 and Siri will prompt the
 user to be more specific.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1512,6 +1544,8 @@ asking your application
 
 00:16:57.106 --> 00:16:58.686 A:middle
 to do before we move on.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1595,6 +1629,8 @@ move onto the next step.
 00:17:58.336 --> 00:18:00.006 A:middle
 So let's think about what
 we're going to confirm
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1689,6 +1725,8 @@ as much information
 00:18:58.876 --> 00:19:02.286 A:middle
 as you have available back
 to Siri, because we want all
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1781,6 +1819,8 @@ back to the user with a result,
 00:19:59.956 --> 00:20:02.576 A:middle
 we'd like you to send an
 in progress response code.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1868,6 +1908,8 @@ an intents UI extension.
 00:20:58.816 --> 00:21:01.616 A:middle
 I told you this was
 some intents stuff.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1955,6 +1997,8 @@ It's also important to realize,
 00:21:59.556 --> 00:22:01.536 A:middle
 that your intent
 extension is going to run
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2038,6 +2082,8 @@ increase that security for.
 00:22:59.306 --> 00:23:01.366 A:middle
 By default, Siri's
 going to allow things
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2138,6 +2184,8 @@ just took place yesterday.
 
 00:23:59.476 --> 00:24:01.216 A:middle
 So that's your intent extension.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2225,6 +2273,8 @@ effectively communicate all
 00:24:57.456 --> 00:25:00.066 A:middle
 of the pieces of information
 your user wants to know about,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2324,6 +2374,8 @@ at the bottom of the snippet,
 00:25:58.606 --> 00:26:00.966 A:middle
 as well as other
 pieces of information.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2415,6 +2467,8 @@ UI extension.
 00:26:58.086 --> 00:27:01.346 A:middle
 Together these two extension
 points are everything you need
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2503,6 +2557,8 @@ are very important
 
 00:27:59.346 --> 00:28:00.866 A:middle
 to making a great experience.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2590,6 +2646,8 @@ with Unicorn Fit.
 00:28:57.706 --> 00:28:59.756 A:middle
 The common things that
 you think users will say
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2688,6 +2746,8 @@ examples of how you're going
 
 00:29:58.916 --> 00:29:59.976 A:middle
 to use that phrase in your app.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2773,6 +2833,8 @@ send payments to.
 00:30:58.256 --> 00:31:01.196 A:middle
 Now we want you to give Siri
 the names of all of the contacts
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2863,6 +2925,8 @@ address book, you don't need
 00:31:58.146 --> 00:32:00.186 A:middle
 to worry about this part
 at all for contact names,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2950,6 +3014,8 @@ and be ready to recognize it
 00:32:56.326 --> 00:32:59.246 A:middle
 as soon as users hold down the
 home button and talk to Siri.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3037,6 +3103,8 @@ opportunity to teach your users
 
 00:33:59.046 --> 00:34:00.196 A:middle
 about what your app does,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3126,6 +3194,8 @@ And SiriKit is just as integral
 00:34:59.666 --> 00:35:01.726 A:middle
 to the operating
 system as Siri itself.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3205,6 +3275,8 @@ ridesharing intents are used
 00:35:57.406 --> 00:36:01.066 A:middle
 for Siri, and maps, to
 create the same experience.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3291,6 +3363,8 @@ icon, to your users.
 00:36:58.406 --> 00:37:00.286 A:middle
 Now Siri's all about
 natural language
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3380,6 +3454,8 @@ experience for your users.
 00:37:59.916 --> 00:38:02.236 A:middle
 But there's more than just
 engineering implantation
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3454,6 +3530,8 @@ your app to the next level.
 00:38:56.536 --> 00:39:00.436 A:middle
 So, let's get started
 with user interface.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3536,6 +3614,8 @@ say whatever they want,
 00:39:59.746 --> 00:40:01.286 A:middle
 or they might not
 even know what to say.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3609,6 +3689,8 @@ that a little bit later.
 00:40:57.136 --> 00:41:00.296 A:middle
 So let's go through an
 example of how this can work.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3686,6 +3768,8 @@ with picking up your device,
 00:41:59.066 --> 00:42:01.646 A:middle
 pressing the home button, and
 starting the conversation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3756,6 +3840,8 @@ I can take a look at that.
 00:42:54.846 --> 00:42:57.976 A:middle
 Now, listen to how this changes
 when I activate hands free.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3826,6 +3912,8 @@ so, and you don't have
 00:43:57.376 --> 00:44:00.736 A:middle
 to find an application and
 navigate through a visual UI
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3905,6 +3993,8 @@ represent it back to the person.
 00:44:56.456 --> 00:44:59.786 A:middle
 And that's especially critical
 in these hands free situations.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3966,6 +4056,8 @@ would talk to Siri.
 00:45:55.006 --> 00:46:00.216 A:middle
 So, you need to go out and find
 some real people, maybe friends,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4035,6 +4127,8 @@ these responses,
 00:46:56.996 --> 00:46:59.386 A:middle
 make sure that your
 app is a good listener.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4118,6 +4212,8 @@ to get something done.
 00:47:59.966 --> 00:48:03.886 A:middle
 So, only ask for the things
 that are absolutely necessary.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4196,6 +4292,8 @@ The next is disambiguation.
 00:48:58.076 --> 00:49:01.576 A:middle
 And this is great when
 you have multiple options,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4261,6 +4359,8 @@ can then present it to the user.
 00:49:56.546 --> 00:50:00.006 A:middle
 Now, again, Siri will
 present this vocally,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4329,6 +4429,8 @@ of your app into Siri.
 00:50:54.816 --> 00:51:00.666 A:middle
 I want you to exercise restraint
 and limit what you show.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4411,6 +4513,8 @@ results in your app.
 00:51:59.806 --> 00:52:01.876 A:middle
 And this is great because
 your app can provide the
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4480,6 +4584,8 @@ to write good examples.
 00:52:56.706 --> 00:53:00.056 A:middle
 Make sure that your examples
 include your app name,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4554,6 +4660,8 @@ you have time to explore
 00:53:58.616 --> 00:54:01.976 A:middle
 and to experiment in how
 you shape the conversation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4619,6 +4727,8 @@ creating extensions
 00:54:57.606 --> 00:55:01.036 A:middle
 and the way they communicate
 with Siri through intents
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4689,6 +4799,8 @@ with SiriKit, which is tomorrow,
 00:55:58.056 --> 00:56:01.526 A:middle
 where some of our colleagues
 will go into more details
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4713,3 +4825,5 @@ to see what you create.
 
 00:56:09.516 --> 00:56:14.500 A:middle
 [ Applause ]
+
+

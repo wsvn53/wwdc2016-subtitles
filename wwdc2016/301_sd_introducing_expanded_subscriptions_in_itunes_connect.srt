@@ -51,6 +51,8 @@ lot of feedback from you
 00:00:58.106 --> 00:01:00.766 A:middle
 around how we can
 improve auto-renewables
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -128,6 +130,8 @@ add-ons to that offering.
 00:01:57.346 --> 00:02:00.766 A:middle
 Also, if you have a
 subscription model for your app,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -213,6 +217,8 @@ Add them to your inventory.
 00:02:59.886 --> 00:03:02.156 A:middle
 And once you've used them
 up you go back into the game
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -284,6 +290,8 @@ great features out of the box.
 00:03:59.776 --> 00:04:04.386 A:middle
 But, if you'd like more features
 Quizlet also offers a Quizlet
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -357,6 +365,8 @@ subscriptions page
 00:04:56.946 --> 00:04:59.976 A:middle
 in your account settings and
 you turn off the renewal option.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -427,6 +437,8 @@ have existing customers,
 00:05:57.406 --> 00:06:00.986 A:middle
 you'll start receiving
 85% proceeds on renewals
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -498,6 +510,8 @@ longer be a limitation.
 
 00:06:59.516 --> 00:07:02.546 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -582,6 +596,8 @@ in manage subscriptions,
 00:07:59.506 --> 00:08:03.506 A:middle
 or if your service name doesn't
 quite match your app name.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -651,6 +667,8 @@ can only have one active
 
 00:08:59.436 --> 00:09:01.126 A:middle
 subscription per group.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -728,6 +746,8 @@ selects it.
 00:09:59.896 --> 00:10:03.336 A:middle
 If the customer downgrades,
 the new subscription goes
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -804,6 +824,8 @@ in the Fall.
 00:10:55.756 --> 00:10:59.976 A:middle
 So, that will allow you
 to do something like this.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -880,6 +902,8 @@ groups in iTunes Connect.
 00:11:59.936 --> 00:12:01.676 A:middle
 I'm an engineer on the
 iTunes Connect team.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -964,6 +988,8 @@ up with my subscription name.
 00:12:58.246 --> 00:13:01.576 A:middle
 And when I create a new
 subscription I'll be prompted
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1039,6 +1065,8 @@ And then click on create.
 00:13:56.686 --> 00:14:02.766 A:middle
 So, what we have here is our
 redesigned in-app purchase page.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1127,6 +1155,8 @@ select use custom name,
 00:14:56.836 --> 00:15:00.816 A:middle
 and just use the short version
 of our app, Meal Manager,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1206,6 +1236,8 @@ between these two subscriptions.
 00:15:58.096 --> 00:15:59.676 A:middle
 It's neither an upgrade
 or a downgrade.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1287,6 +1319,8 @@ indicates which level it is.
 00:16:59.646 --> 00:17:01.336 A:middle
 And that is about
 subscription groups.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1359,6 +1393,8 @@ be able to price per territory.
 
 00:17:57.516 --> 00:18:02.236 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1432,6 +1468,8 @@ customer attention
 
 00:18:57.946 --> 00:18:59.576 A:middle
 in the context of price changes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1501,6 +1539,8 @@ into an app store page
 00:19:58.706 --> 00:20:00.856 A:middle
 where they can review the
 new price and consent to it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1567,6 +1607,8 @@ and renewals.
 
 00:20:59.156 --> 00:21:00.626 A:middle
 Now, after some time has passed,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1654,6 +1696,8 @@ effect, we have one set
 00:21:59.246 --> 00:22:02.576 A:middle
 of customers both launch
 and post-launch paying 360.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1723,6 +1767,8 @@ the new price flow.
 
 00:22:58.516 --> 00:23:02.576 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1805,6 +1851,8 @@ specific subscription here.
 00:23:57.936 --> 00:24:01.306 A:middle
 So, again this is our new
 in-app purchase details page.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1884,6 +1932,8 @@ within your user profile.
 00:24:58.116 --> 00:25:02.406 A:middle
 And I'm going select
 the initial price
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1968,6 +2018,8 @@ entree subscription.
 00:25:58.726 --> 00:26:03.736 A:middle
 So, in this case we've
 launched our app.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2041,6 +2093,8 @@ You know, we originally selected
 
 00:26:57.886 --> 00:27:00.756 A:middle
 And the new price will be $1.99.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2115,6 +2169,8 @@ to our entree only subscription.
 00:27:59.516 --> 00:28:02.656 A:middle
 Now in this case we've gone
 through those two phases
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2196,6 +2252,8 @@ existing subscribers,
 00:28:57.706 --> 00:29:01.006 A:middle
 the last price change, I want to
 move anyone that had subscribed
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2286,6 +2344,8 @@ their subscription renews.
 
 00:29:59.636 --> 00:30:01.976 A:middle
 So, that is what we want to do.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2363,6 +2423,8 @@ what my proceeds are
 00:30:58.196 --> 00:31:00.016 A:middle
 for the first year
 for new subscribers.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2448,6 +2510,8 @@ click save, that's it.
 
 00:31:58.296 --> 00:31:59.836 A:middle
 It cannot be edited or changed.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2526,6 +2590,8 @@ proceeds for any customers
 00:32:59.826 --> 00:33:02.506 A:middle
 that haven't subscribed
 for one year or more.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2598,6 +2664,8 @@ about today, including how
 00:33:59.686 --> 00:34:02.766 A:middle
 to check for seats and
 other things that you can do
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2634,3 +2702,5 @@ the rest of your conference.
 
 00:34:20.516 --> 00:34:24.500 A:middle
 [ Applause ]
+
+

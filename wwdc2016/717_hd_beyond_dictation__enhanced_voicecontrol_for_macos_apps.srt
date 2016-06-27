@@ -40,6 +40,8 @@ at Apple.
 00:00:58.486 --> 00:01:01.386 A:middle
 Today we're going to be
 talking about the Mac,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -100,6 +102,8 @@ interface,
 00:01:59.566 --> 00:02:02.736 A:middle
 as well as perform
 dictation tasks as well.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -171,6 +175,8 @@ Siri preference.
 00:02:59.696 --> 00:03:02.146 A:middle
 And if we open the Siri
 preference you'll see
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -246,6 +252,8 @@ dictation, basic dictation,
 00:03:59.396 --> 00:04:02.786 A:middle
 you'll see this sheet drop
 down and it has two bits
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -310,6 +318,8 @@ field for Safari.
 00:04:59.016 --> 00:05:02.056 A:middle
 You can use dictation
 anywhere on the computer
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -398,6 +408,8 @@ Preferences window here,
 00:05:59.686 --> 00:06:02.416 A:middle
 below the On Off button
 that we just turned off
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -476,6 +488,8 @@ window.
 00:06:59.946 --> 00:07:04.416 A:middle
 Now to see what kind of commands
 are available to us we're going
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -552,6 +566,8 @@ you've now enabled we're going
 00:07:57.296 --> 00:08:01.066 A:middle
 to click the Dictation Commands
 button and we get this sheet
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -631,6 +647,8 @@ is for navigating
 
 00:08:57.486 --> 00:08:59.836 A:middle
 within your editing area.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -706,6 +724,8 @@ middle of a dictation
 00:09:57.606 --> 00:09:59.646 A:middle
 and you're not sure what
 command is available,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -757,6 +777,8 @@ until you see me live.
 00:10:59.406 --> 00:11:02.366 A:middle
 So then I used the Replace
 command, I selected Brazil,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -835,6 +857,8 @@ is advanced commands and that's
 00:11:57.756 --> 00:12:01.076 A:middle
 where you augment the dictation
 abilities with the ability
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -906,6 +930,8 @@ that is really useful.
 
 00:12:59.296 --> 00:13:00.766 A:middle
 You can also show commands
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -979,6 +1005,8 @@ there's a command for new item.
 00:13:56.456 --> 00:14:00.816 A:middle
 And this is same thing as going
 Command End on the keyboard
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1054,6 +1082,8 @@ with the parchment theme.
 00:14:57.256 --> 00:15:02.766 A:middle
 So you can see that advanced
 commands augment dictation
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1128,6 +1158,8 @@ fuse together
 
 00:15:58.936 --> 00:16:01.076 A:middle
 to produce incredible tools.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1191,6 +1223,8 @@ actions I want it to do.
 00:16:56.826 --> 00:17:01.236 A:middle
 Now you can determine if this
 command is always available
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1272,6 +1306,8 @@ for starting a recording
 
 00:17:59.936 --> 00:18:01.076 A:middle
 in the QuickTime player.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1349,6 +1385,8 @@ take my picture, it recognizes,
 00:18:57.656 --> 00:19:04.306 A:middle
 brings up the camera picker, I
 smile and it takes my picture
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1420,6 +1458,8 @@ many steps it took me
 00:19:56.506 --> 00:20:01.766 A:middle
 to make a user dictation command
 if I wanted to make a hundred
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1491,6 +1531,8 @@ it's open there connected
 00:20:57.156 --> 00:21:00.446 A:middle
 to my monitor and I can talk to
 this thing from across the room
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1553,6 +1595,8 @@ Close all without saving.
 00:21:57.606 --> 00:22:02.556 A:middle
 So the whole idea of
 having to be procedural
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1608,6 +1652,8 @@ Start at the top.
 
 00:22:55.516 --> 00:23:02.606 A:middle
 [ Music ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1665,6 +1711,8 @@ in this land of extremes.
 
 00:23:57.266 --> 00:23:59.656 A:middle
 Take a break.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1723,6 +1771,8 @@ to find things that are related
 00:24:57.866 --> 00:25:02.096 A:middle
 to the document that I'm working
 on just by asking for them.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1787,6 +1837,8 @@ Select all photos.
 
 00:25:58.886 --> 00:26:02.466 A:middle
 Help me to add titles.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1852,6 +1904,8 @@ of images really quickly.
 00:26:46.276 --> 00:26:53.000 A:middle
 Select all photos, make a
 new presentation with these.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1893,6 +1947,8 @@ And let's see vacation photos.
 00:27:49.176 --> 00:27:59.696 A:middle
 Select Photos, capitalize
 that, stop, edit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1958,6 +2014,8 @@ nice little tools
 00:28:54.996 --> 00:29:00.176 A:middle
 for doing that, so
 that looks good.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2029,6 +2087,8 @@ the fact that the thing's right
 00:29:59.926 --> 00:30:01.976 A:middle
 in the middle of this
 old Roman part of town.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2098,6 +2158,8 @@ Do that again.
 
 00:30:59.216 --> 00:31:02.336 A:middle
 Do that again.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2157,6 +2219,8 @@ spreadsheet tourism in France.
 
 00:31:59.376 --> 00:31:59.976 A:middle
 Open result.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2213,6 +2277,8 @@ station that they use
 
 00:32:57.166 --> 00:32:59.076 A:middle
 to provide power for Arles.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2280,6 +2346,8 @@ Save this presentation.
 00:33:51.936 --> 00:33:59.566 A:middle
 And as a matter fact, why
 don't I while I'm at it,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2356,6 +2424,8 @@ able to tell it to do that?
 
 00:34:58.026 --> 00:35:00.356 A:middle
 So where do you get this stuff?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2395,6 +2465,8 @@ here and my slide advancer.
 00:35:58.376 --> 00:36:01.926 A:middle
 So what are these type
 of commands useful for?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2467,6 +2539,8 @@ data transformation.
 00:36:59.276 --> 00:37:04.466 A:middle
 So I had a table with data that
 I wanted as a chart in Keynote
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2536,6 +2610,8 @@ So how does it work?
 00:37:55.826 --> 00:38:00.776 A:middle
 Well, I only have a couple
 minutes so I'm going to kind
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2600,6 +2676,8 @@ inputs into the computer.
 00:38:57.286 --> 00:39:02.466 A:middle
 And this is what's possible
 when you have macOS and all
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2628,3 +2706,5 @@ this session I appreciate it.
 
 00:39:15.516 --> 00:39:20.500 A:middle
 [ Applause ]
+
+

@@ -45,6 +45,8 @@ apps to a whole other level.
 00:00:56.026 --> 00:01:00.526 A:middle
 And this is done by extending
 TVMLKit by extending interfaces
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -114,6 +116,8 @@ that everyone encounters
 00:01:57.066 --> 00:01:59.836 A:middle
 when they use TVMLKit is
 this idea of templates,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -179,6 +183,8 @@ and three labels.
 00:02:59.506 --> 00:03:01.496 A:middle
 But over here they
 have a custom layout
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -259,6 +265,8 @@ it goes to the TVElementFactory.
 00:03:58.956 --> 00:04:02.706 A:middle
 This is the central registry
 that knows about all elements
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -338,6 +346,8 @@ let's look at things in detail.
 00:04:59.676 --> 00:05:01.626 A:middle
 There are three steps
 that you have to worry
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -421,6 +431,8 @@ So now that you have an idea
 00:05:56.186 --> 00:06:00.576 A:middle
 of what your user interface is
 represented in mark-up you have
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -504,6 +516,8 @@ with only just two steps.
 00:06:59.546 --> 00:07:01.526 A:middle
 The very first thing
 you have to do is
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -594,6 +608,8 @@ implement the makeView element,
 
 00:07:57.916 --> 00:08:00.126 A:middle
 existingView call back method.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -672,6 +688,8 @@ to all myBanner view.
 00:08:57.646 --> 00:08:59.646 A:middle
 Finally of course,
 return your view.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -749,6 +767,8 @@ Remember this example?
 00:09:59.336 --> 00:10:02.376 A:middle
 The App Store theme specifically
 only had a requirement
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -829,6 +849,8 @@ collection view cell that's deep
 00:10:58.416 --> 00:11:00.896 A:middle
 queued from the collection
 view using the existing view
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -899,6 +921,8 @@ So let's get to it.
 00:11:53.916 --> 00:11:58.156 A:middle
 So I'm going to switch
 over to my computer,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -955,6 +979,8 @@ by a lockup.
 00:12:55.786 --> 00:12:59.876 A:middle
 Now each one of these
 lockups embeds an image
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1023,6 +1049,8 @@ be a little better.
 00:13:56.686 --> 00:14:04.606 A:middle
 So, consider this, how about
 instead of just taking one photo
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1082,6 +1110,8 @@ cells with TVMLKit.
 
 00:14:57.486 --> 00:14:58.586 A:middle
 So let me show you how to do it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1146,6 +1176,8 @@ elements as children.
 00:15:58.306 --> 00:16:02.016 A:middle
 Now there's one important
 thing to note,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1199,6 +1231,8 @@ it gets focused.
 00:16:52.486 --> 00:16:58.326 A:middle
 So now that we have the
 spec, what's the next step?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1248,6 +1282,8 @@ real quick as well.
 00:17:55.716 --> 00:18:00.376 A:middle
 So, that's all the configuration
 required for TVMLKit,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1305,6 +1341,8 @@ that I want to use for it.
 00:18:58.616 --> 00:19:06.226 A:middle
 And similarly, the
 mapping to configure
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1370,6 +1408,8 @@ app or any other app.
 00:19:59.856 --> 00:20:04.756 A:middle
 The important point to note
 here is that it accepts an array
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1418,6 +1458,8 @@ image elements out of it
 00:20:55.526 --> 00:21:00.306 A:middle
 and simply reusing TVMLKit to
 create an image view for me.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1488,6 +1530,8 @@ remove all of these lockups,
 
 00:21:58.816 --> 00:22:02.000 A:middle
 and add my FlyoutCell.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1537,6 +1581,8 @@ it looks so much better,
 00:22:59.556 --> 00:23:03.066 A:middle
 then just having one
 image, it just looks
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1598,6 +1644,8 @@ time building the FlyoutCell
 00:23:59.446 --> 00:24:02.306 A:middle
 than actually configuring
 TVMLKit for that.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1673,6 +1721,8 @@ are a few important things
 
 00:24:57.236 --> 00:24:58.766 A:middle
 that we want you to know.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1744,6 +1794,8 @@ views as much as possible.
 00:25:58.796 --> 00:26:04.396 A:middle
 In our initial example
 for returning the banner,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1814,6 +1866,8 @@ update it all the time,
 00:26:58.256 --> 00:26:59.726 A:middle
 we don't really look
 at the update type.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1881,6 +1935,8 @@ from the element update type.
 00:27:59.146 --> 00:28:01.926 A:middle
 This gives you an idea
 of whether your view is
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1955,6 +2011,8 @@ and you're all set to go.
 00:28:58.686 --> 00:29:02.666 A:middle
 Another way to use TVMLKit with
 your existing apps, native apps,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2029,6 +2087,8 @@ over the time to Christopher,
 00:29:56.846 --> 00:30:00.056 A:middle
 to talk to you about how you can
 extend application functionality
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2102,6 +2162,8 @@ at run time.
 00:30:58.596 --> 00:31:02.996 A:middle
 Second, you can use native
 code to interact directly
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2176,6 +2238,8 @@ app.onlaunch can execute.
 00:31:56.876 --> 00:32:00.236 A:middle
 If you have a large application,
 it's a good idea to break
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2245,6 +2309,8 @@ in your libraries.
 00:32:56.396 --> 00:32:58.016 A:middle
 But there are a few
 things to keep in mind.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2314,6 +2380,8 @@ is not a web browser.
 00:33:58.416 --> 00:34:01.216 A:middle
 So you may find some
 JavaScript libraries on the web
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2385,6 +2453,8 @@ on this TVApplicationController,
 00:34:59.726 --> 00:35:01.716 A:middle
 and pass in a block
 to be evaluated.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2453,6 +2523,8 @@ example of how we would call
 00:35:58.326 --> 00:36:01.546 A:middle
 into JavaScript code from
 our Swift application.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2519,6 +2591,8 @@ on open URL global function
 00:36:56.376 --> 00:37:00.546 A:middle
 that was defined in JavaScript
 and passing along a string
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2591,6 +2665,8 @@ extends JSExport,
 
 00:37:59.646 --> 00:38:01.196 A:middle
 which comes from JavaScriptCore.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2654,6 +2730,8 @@ properties or methods
 00:38:56.826 --> 00:39:00.446 A:middle
 that we wanted JavaScriptCore
 to bridge for us.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2727,6 +2805,8 @@ steps to make it accessible
 00:39:59.486 --> 00:40:04.976 A:middle
 to our TVML application's
 JavaScript.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2792,6 +2872,8 @@ and minimal overhead.
 00:40:59.476 --> 00:41:02.746 A:middle
 I encourage you to
 check out the TVML guide
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2834,3 +2916,5 @@ from start to finish.
 00:41:33.126 --> 00:41:37.796 A:middle
 Thank you, and enjoy
 the rest of WWDC 2016.
+
+

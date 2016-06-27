@@ -40,6 +40,8 @@ on HTTP/2 persistent Pushes.
 00:00:56.076 --> 00:01:01.166 A:middle
 HTTP/2 is a binary protocol
 that supports multiple streams
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -110,6 +112,8 @@ already you should definitely
 
 00:01:59.796 --> 00:02:00.766 A:middle
 try it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -178,6 +182,8 @@ running on this device.
 00:02:57.126 --> 00:03:02.056 A:middle
 Your application should forward
 this token to the provider.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -234,6 +240,8 @@ For example, a bad device token.
 00:03:54.916 --> 00:04:00.486 A:middle
 The new provider protocol also
 provides instant feedback.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -296,6 +304,8 @@ to feedback
 
 00:04:58.996 --> 00:05:00.436 A:middle
 from developers like you.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -353,6 +363,8 @@ connect to APNS.
 00:05:55.176 --> 00:05:59.606 A:middle
 In addition, the tokens are easy
 to generate programmatically,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -419,6 +431,8 @@ and validate.
 
 00:06:59.256 --> 00:07:01.666 A:middle
 As part of the handshake,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -478,6 +492,8 @@ your team ID.
 00:07:58.086 --> 00:08:02.066 A:middle
 And then sign it using
 the key opt indicator.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -532,6 +548,8 @@ back indicating the error.
 00:08:55.166 --> 00:09:01.796 A:middle
 As a reminder, APNS will not
 close the connection on error.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -588,6 +606,8 @@ of the request might look like.
 00:09:55.416 --> 00:09:58.566 A:middle
 Let's go over the structure
 of this JSON Web token.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -642,6 +662,8 @@ from the account.
 00:10:53.696 --> 00:11:00.016 A:middle
 The next attribute in the claims
 is initial time stamp that's
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -707,6 +729,8 @@ by the signed provider token.
 00:11:57.036 --> 00:12:02.896 A:middle
 If the request including the
 authentication token is valid,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -758,6 +782,8 @@ within the last hour.
 00:12:54.376 --> 00:12:59.196 A:middle
 However, a new token should not
 be generated on every request.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -812,6 +838,8 @@ And it's coming later this year.
 00:13:54.946 --> 00:14:01.196 A:middle
 For more information visit
 the Website for this session
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -849,3 +877,5 @@ hope to see you there.
 
 00:14:35.126 --> 00:14:36.136 A:middle
 Thank you very much.
+
+

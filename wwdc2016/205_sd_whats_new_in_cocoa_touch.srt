@@ -41,6 +41,8 @@ of very important products.
 
 00:00:58.026 --> 00:01:01.506 A:middle
 The iPhone 6S with 3D Touch.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -100,6 +102,8 @@ we have all the tools
 00:01:57.776 --> 00:02:00.146 A:middle
 in the framework
 to express that.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -175,6 +179,8 @@ adaptive.
 00:02:58.276 --> 00:03:01.086 A:middle
 And this morning there was
 an amazing, session focused
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -233,6 +239,8 @@ leverage touch input on iOS.
 00:03:58.116 --> 00:04:02.806 A:middle
 The last thing that I'd like to
 mention is the Smart Keyboard.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -292,6 +300,8 @@ in your applications.
 00:04:54.386 --> 00:04:59.886 A:middle
 And, we're going to discuss
 how, with UIKit and other API,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -355,6 +365,8 @@ the first argument
 
 00:05:58.566 --> 00:06:00.736 A:middle
 to make the intent clear.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -410,6 +422,8 @@ can actually set the queue
 00:06:58.836 --> 00:07:04.046 A:middle
 to automatically wrap every work
 item in an autorelease pool.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -467,6 +481,8 @@ happy about that.
 
 00:07:56.516 --> 00:07:59.546 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -537,6 +553,8 @@ So you can avoid this UI.
 00:08:59.866 --> 00:09:04.056 A:middle
 We added four new methods
 to UI Pasteboard for that
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -585,6 +603,8 @@ now represent colors on screen
 00:09:58.316 --> 00:10:00.856 A:middle
 that was not physically
 possible before.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -647,6 +667,8 @@ initializer, in it with RGB.
 00:10:56.786 --> 00:11:02.096 A:middle
 Second one, and new one,
 in it with display P3 RGB.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -713,6 +735,8 @@ Image rendering is something
 00:11:57.676 --> 00:12:00.606 A:middle
 that you're probably
 already using today
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -782,6 +806,8 @@ first, it's fully color managed.
 00:12:59.686 --> 00:13:01.536 A:middle
 It's going to do the
 right thing by default.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -852,6 +878,8 @@ really cool about that is,
 00:13:57.626 --> 00:14:01.876 A:middle
 if you call again, the
 image method here are going
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -913,6 +941,8 @@ for you.
 00:14:59.976 --> 00:15:02.856 A:middle
 And that's going to be fully
 compatible with App Thinning,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -972,6 +1002,8 @@ or image asset support.
 00:15:56.286 --> 00:16:00.486 A:middle
 It means that now, directly
 at the asset catalog level,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1038,6 +1070,8 @@ accessibility properties
 
 00:16:58.826 --> 00:17:00.056 A:middle
 of a given UI element.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1099,6 +1133,8 @@ And not just for English.
 
 00:17:59.136 --> 00:18:01.226 A:middle
 And it's a very simple API.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1157,6 +1193,8 @@ the WWDC app about this API.
 00:18:55.616 --> 00:19:01.136 A:middle
 Another great improvement
 in iOS X is text input.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1216,6 +1254,8 @@ can render text in iOS.
 00:19:58.696 --> 00:20:03.676 A:middle
 In iOS 7 we added support for
 dynamic type and in iOS X,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1274,6 +1314,8 @@ in new UIKit.
 00:20:54.956 --> 00:21:00.716 A:middle
 So if you build your UI with
 text field, text view, labels,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1337,6 +1379,8 @@ theme color.
 00:21:58.706 --> 00:22:01.286 A:middle
 So let's say that I
 have a standard tab bar
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1395,6 +1439,8 @@ when doing a Peek.
 00:22:55.696 --> 00:23:00.386 A:middle
 And you can have preview
 actions, and a great consequence
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1460,6 +1506,8 @@ animation for Peek and Pop.
 00:23:59.446 --> 00:24:04.566 A:middle
 And, that's just a new delegate
 on that class, so you can know
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1523,6 +1571,8 @@ and scroll view of classes.
 00:24:58.436 --> 00:25:02.006 A:middle
 So we already had support for
 table view and refresh control,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1596,6 +1646,8 @@ We do. And we are improving
 00:25:59.636 --> 00:26:03.706 A:middle
 that by adding paging
 support in collection view.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1659,6 +1711,8 @@ that we call cell prefetching.
 00:26:58.756 --> 00:27:04.586 A:middle
 The idea here is before we
 actually need a cell on screen,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1713,6 +1767,8 @@ Because sometimes, it's not just
 00:27:57.026 --> 00:27:59.556 A:middle
 about doing the layout
 for your cell.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1774,6 +1830,8 @@ data prefetching,
 
 00:28:58.056 --> 00:29:03.206 A:middle
 reordering, don't miss this one.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1832,6 +1890,8 @@ it's really easy to use.
 00:29:58.446 --> 00:30:02.206 A:middle
 You just have to
 create a new animator.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1894,6 +1954,8 @@ I can start the transition,
 00:30:55.526 --> 00:31:00.596 A:middle
 catch that mid flight
 with a gesture, move it,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1956,6 +2018,8 @@ new features we have in iOS X.
 00:31:59.696 --> 00:32:04.106 A:middle
 And the key thing here
 is, there's nothing
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2020,6 +2084,8 @@ API, you can actually check
 00:32:56.386 --> 00:33:00.206 A:middle
 if there was an application
 on the system install.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2082,6 +2148,8 @@ want to move from one version,
 00:33:59.346 --> 00:34:01.266 A:middle
 to another version
 of your model.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2151,6 +2219,8 @@ to hold for public databases,
 
 00:34:56.996 --> 00:35:00.616 A:middle
 and private per user databases.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2214,6 +2284,8 @@ automatically for you that UI
 00:35:56.056 --> 00:36:00.446 A:middle
 to manage the invitation
 flow, and the invitee list.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2283,6 +2355,8 @@ you attach that to the activity
 00:36:57.006 --> 00:37:02.006 A:middle
 and now you understand how
 I build that suggestion
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2351,6 +2425,8 @@ and pass text field information
 00:37:59.806 --> 00:38:02.146 A:middle
 and that would just
 show in Spotlight.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2415,6 +2491,8 @@ indexing your content
 
 00:38:58.206 --> 00:38:59.196 A:middle
 with Core Spotlight.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2475,6 +2553,8 @@ Kit, that was a way
 00:39:59.836 --> 00:40:01.866 A:middle
 to record your screen
 in your application.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2536,6 +2616,8 @@ a linear cross space.
 00:40:59.456 --> 00:41:01.046 A:middle
 But I think that's
 better to show you.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2601,6 +2683,8 @@ Pay is everywhere.
 00:41:58.676 --> 00:42:01.486 A:middle
 But what's great
 is, as a developer,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2675,6 +2759,8 @@ there is What's New
 
 00:42:57.646 --> 00:42:58.866 A:middle
 in Wallet in Apple Pay.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2739,6 +2825,8 @@ with you preferred size.
 00:43:59.006 --> 00:44:02.006 A:middle
 Now we have a user
 controlled size.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2810,6 +2898,8 @@ to see the same kind of data
 00:44:58.556 --> 00:45:01.606 A:middle
 at the same level of privacy
 and that I'm not going
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2873,6 +2963,8 @@ the notification.
 00:45:59.446 --> 00:46:02.606 A:middle
 So in-app, you have
 better control
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2929,6 +3021,8 @@ to display for a given, payload,
 00:46:57.346 --> 00:47:00.726 A:middle
 you can, when receiving
 that notification,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2999,6 +3093,8 @@ Advanced Notification
 
 00:47:59.556 --> 00:48:00.886 A:middle
 in Pacific Heights on Wednesday.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3063,6 +3159,8 @@ With the call provider API,
 00:48:58.926 --> 00:49:01.936 A:middle
 we have a real first
 party experience
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3132,6 +3230,8 @@ I'd like to talk about Siri.
 00:49:56.156 --> 00:49:59.846 A:middle
 So, you might not
 know about that.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3194,6 +3294,8 @@ the request,
 00:50:55.466 --> 00:50:59.426 A:middle
 and that's how your extension
 will interact with that.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3263,6 +3365,8 @@ to your application for
 00:51:56.346 --> 00:52:01.306 A:middle
 So the main goal here, for
 Siri intents, extension is
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3334,6 +3438,8 @@ That's really great.
 00:52:58.246 --> 00:53:02.336 A:middle
 And, another great thing
 about the intent system is,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3402,6 +3508,8 @@ a list of actions,
 00:53:57.526 --> 00:54:02.576 A:middle
 we can show you directly your
 application there, if you expose
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3467,6 +3575,8 @@ The other thing you can do,
 00:54:59.286 --> 00:55:03.116 A:middle
 with iMessage apps is use
 a new messages extension.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3536,6 +3646,8 @@ that's great feature for you
 
 00:55:58.276 --> 00:55:59.816 A:middle
 to integrate in messages.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3565,3 +3677,5 @@ very much, enjoy WWDC.
 
 00:56:28.516 --> 00:56:38.410 A:middle
 [ Applause ]
+
+

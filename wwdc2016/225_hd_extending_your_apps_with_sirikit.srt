@@ -48,6 +48,8 @@ course, your Application.
 00:00:57.466 --> 00:01:02.016 A:middle
 With the Intents extension,
 we have three main methods.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -118,6 +120,8 @@ has a certain amount
 00:01:56.586 --> 00:02:00.256 A:middle
 of unique corniness, which
 makes it a special app for us.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -194,6 +198,8 @@ application subscribes to.
 00:02:55.116 --> 00:02:59.446 A:middle
 So let's dig a little bit
 deeper into embedded frameworks.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -268,6 +274,8 @@ well as the extension.
 00:03:57.746 --> 00:04:00.536 A:middle
 Having done that, we took
 a look at our data model.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -354,6 +362,8 @@ to an embedded framework.
 00:04:58.596 --> 00:05:03.236 A:middle
 And finally, if your application
 is signing up for intents
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -436,6 +446,8 @@ time, I know it.
 00:05:58.416 --> 00:06:01.046 A:middle
 But having moved
 some of this code
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -523,6 +535,8 @@ our extensions?
 
 00:06:59.626 --> 00:07:01.206 A:middle
 Should we put intent handling
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -598,6 +612,8 @@ a separate extension by itself.
 00:07:58.936 --> 00:08:03.416 A:middle
 In other words, there is
 no magic bullet over here.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -662,6 +678,8 @@ Intents extension to work
 00:08:56.976 --> 00:09:01.276 A:middle
 with Siri, now that your app is
 fully prepared to adopt SiriKit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -734,6 +752,8 @@ And then, let's take a look
 00:09:59.316 --> 00:10:02.006 A:middle
 at the Info.plist
 of your extension.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -798,6 +818,8 @@ when the device is locked.
 00:10:58.256 --> 00:11:02.386 A:middle
 For example, the payments domain
 or the photo search domain.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -862,6 +884,8 @@ Object and you need
 
 00:11:58.246 --> 00:12:00.066 A:middle
 to return a Handler Object.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -925,6 +949,8 @@ actually zoom
 
 00:12:56.486 --> 00:12:57.906 A:middle
 in a little bit to see better.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -989,6 +1015,8 @@ we decided to lock it down so
 00:13:56.816 --> 00:14:00.266 A:middle
 that users will have to unlock
 their device first before they
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1055,6 +1083,8 @@ implementation returns self,
 00:14:56.386 --> 00:15:00.756 A:middle
 which is returning an instance
 of the principal class itself.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1117,6 +1147,8 @@ and the extensions.
 00:15:57.746 --> 00:16:00.606 A:middle
 And here we have the
 UCSentMessage IntentHandler
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1190,6 +1222,8 @@ Resolve, Confirm and Handle.
 
 00:16:57.506 --> 00:17:00.786 A:middle
 Let's talk about Resolve first.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1253,6 +1287,8 @@ final values for recipients,
 00:17:58.196 --> 00:18:03.156 A:middle
 we need to perform a contact
 search among UnicornChat's own
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1319,6 +1355,8 @@ a value in order to proceed.
 00:18:59.246 --> 00:19:03.326 A:middle
 If the user simply hasn't
 provided a content then we would
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1391,6 +1429,8 @@ when appropriate,
 00:19:58.986 --> 00:20:01.746 A:middle
 can communicate all this
 information to the user.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1468,6 +1508,8 @@ and tell Siri how it went.
 00:20:59.246 --> 00:21:04.786 A:middle
 So in the case of UnicornChat,
 we just need to send the message
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1529,6 +1571,8 @@ project and read by yourself.
 
 00:21:59.486 --> 00:21:59.896 A:middle
 All right.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1595,6 +1639,8 @@ ResolutionResultNeedsValue
 
 00:22:58.906 --> 00:23:00.736 A:middle
 or ResolutionResultNotRequired.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1661,6 +1707,8 @@ exactly one matching contact.
 00:23:57.726 --> 00:24:00.306 A:middle
 And the case where we
 have no matching contact.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1733,6 +1781,8 @@ the key takeaway for you here is
 00:24:58.326 --> 00:25:01.476 A:middle
 to know that we do have
 different resolutionResults
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1803,6 +1853,8 @@ and call completion with that
 00:25:55.786 --> 00:25:59.736 A:middle
 to tell Siri please prompt
 the users for a recipient.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1862,6 +1914,8 @@ with this.
 00:26:59.056 --> 00:27:02.336 A:middle
 So now we have gone through
 both of the Resolve methods.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1923,6 +1977,8 @@ with a code
 00:27:58.596 --> 00:28:02.846 A:middle
 So this is to tell Siri,
 Siri should provide an option
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1985,6 +2041,8 @@ with the code failure.
 00:28:59.746 --> 00:29:02.246 A:middle
 And then we're going
 to call completion
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2042,6 +2100,8 @@ if you decide to pass in nil
 00:29:59.836 --> 00:30:01.976 A:middle
 into the IntentResponse
 initializer.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2111,6 +2171,8 @@ have been passing in nil
 00:30:59.436 --> 00:31:04.046 A:middle
 for the userActivity into our
 IntentResponse initializers.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2179,6 +2241,8 @@ nil with the userActivity
 
 00:31:59.246 --> 00:32:00.546 A:middle
 that we have just created.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2242,6 +2306,8 @@ That's absolutely awesome.
 
 00:32:57.516 --> 00:32:59.786 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2311,6 +2377,8 @@ vocabulary here.
 00:33:58.956 --> 00:34:03.426 A:middle
 So in order to help Siri to
 understand what the users meant
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2384,6 +2452,8 @@ of Unicorn names.
 00:34:59.026 --> 00:35:02.986 A:middle
 And we put the more important
 Unicorn names at the front
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2458,6 +2528,8 @@ thread for it.
 00:35:59.806 --> 00:36:03.106 A:middle
 So please do take
 advantage of GCD
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2520,6 +2592,8 @@ going to invite up my teammate,
 00:36:57.146 --> 00:36:59.976 A:middle
 Scott a.k.a. Sparkle
 Sparkly to the stage.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2599,6 +2673,8 @@ opportunities to do things
 00:37:57.796 --> 00:38:00.616 A:middle
 with your app that are
 unique and let your app stand
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2678,6 +2754,8 @@ for in the Siri experience.
 
 00:38:56.856 --> 00:39:01.186 A:middle
 The anatomy of the UI extension
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2757,6 +2835,8 @@ handling status [inaudible]
 00:39:59.456 --> 00:40:02.476 A:middle
 value that describes the
 state of the interaction
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2838,6 +2918,8 @@ Siri snippet or maps card.
 00:40:57.636 --> 00:41:00.796 A:middle
 And so you can configure
 your interface differently
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2924,6 +3006,8 @@ for our Siri UI extension.
 
 00:41:59.506 --> 00:42:00.806 A:middle
 So we open that up.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3001,6 +3085,8 @@ to add support
 00:42:57.026 --> 00:43:01.046 A:middle
 for the INSendMessageIntent,
 declaring that we should
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3089,6 +3175,8 @@ logic for Resolve, Confirm
 
 00:43:59.236 --> 00:44:00.816 A:middle
 and Handle in our extension.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3170,6 +3258,8 @@ that chatViewController
 00:44:59.196 --> 00:45:01.636 A:middle
 with .messageContent from
 the interaction object,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3257,6 +3347,8 @@ know the same.
 00:45:59.846 --> 00:46:03.026 A:middle
 Finally I can present the
 chatViewController as a child
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3329,6 +3421,8 @@ that I've completed implementing
 00:46:58.816 --> 00:47:00.816 A:middle
 and configuring my
 user interface
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3383,6 +3477,8 @@ So we've just shown you how
 00:47:58.726 --> 00:48:00.986 A:middle
 to boot strap your UI
 extension with SiriKit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3461,6 +3557,8 @@ within your UI extension's view.
 00:48:56.836 --> 00:49:00.376 A:middle
 And thus, you can opt-in to
 displaying different kinds
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3541,6 +3639,8 @@ that does exactly this.
 
 00:49:59.046 --> 00:50:00.576 A:middle
 So we're back on my device.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3599,6 +3699,8 @@ like to leave you with is
 00:50:58.246 --> 00:51:00.936 A:middle
 that you should consider
 being memory conscious near
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3686,6 +3788,8 @@ at either the minimum
 00:51:54.966 --> 00:51:57.956 A:middle
 or the maximum size, no
 matter how Siri draws it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3757,6 +3861,8 @@ session, as well as the slides
 00:52:58.476 --> 00:53:00.476 A:middle
 and some great documentation
 about SiriKit,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3807,3 +3913,5 @@ Thank you.
 
 00:53:32.516 --> 00:53:36.500 A:middle
 [ Applause ]
+
+

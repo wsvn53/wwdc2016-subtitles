@@ -47,6 +47,8 @@ other Apple devices.
 00:00:58.046 --> 00:01:02.256 A:middle
 There's no touchscreen on a TV
 or a mouse because these forms
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -118,6 +120,8 @@ and they can move focus
 00:01:56.346 --> 00:01:58.946 A:middle
 around the screen
 using any input device.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -201,6 +205,8 @@ have at least some familiarity
 00:02:59.626 --> 00:03:01.836 A:middle
 with the Focus API
 and the basic concepts
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -276,6 +282,8 @@ the Focus engine is going to try
 00:03:59.216 --> 00:04:01.466 A:middle
 to figure out where Focus
 should show up by default,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -363,6 +371,8 @@ easily express complex Focus
 00:04:58.446 --> 00:05:01.536 A:middle
 preferences and the name of this
 property is appropriately called
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -441,6 +451,8 @@ structure that looks like this.
 00:05:59.486 --> 00:06:01.156 A:middle
 We have a container
 view controller
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -532,6 +544,8 @@ view controller instead.
 00:06:56.706 --> 00:06:59.786 A:middle
 And in this example, maybe it
 does find something focusable.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -615,6 +629,8 @@ view controller.
 00:07:59.096 --> 00:08:02.516 A:middle
 In that case we're
 interested in is
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -694,6 +710,8 @@ restore focus to some other part
 
 00:08:59.796 --> 00:09:00.886 A:middle
 of your user interface.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -778,6 +796,8 @@ If set to false, however,
 00:09:58.126 --> 00:10:00.736 A:middle
 then the Focus engine will
 instead consult your view
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -860,6 +880,8 @@ for a quick demo.
 
 00:10:56.516 --> 00:10:59.500 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -947,6 +969,8 @@ to default to the next button.
 00:11:58.986 --> 00:12:00.546 A:middle
 So we'll add that to
 our array as well.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1018,6 +1042,8 @@ engine just moved
 00:12:57.986 --> 00:12:59.486 A:middle
 to our next preferred
 focus environment.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1109,6 +1135,8 @@ focus environment.
 00:13:56.926 --> 00:13:59.546 A:middle
 All right, let's run
 this, see if it works.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1185,6 +1213,8 @@ properties,
 00:14:59.316 --> 00:15:02.196 A:middle
 we're able to provide a much
 better experience to our users.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1258,6 +1288,8 @@ SpriteKit games.
 00:15:58.476 --> 00:16:04.746 A:middle
 But first, what would
 this be useful for?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1322,6 +1354,8 @@ extended the same Focus API
 00:16:57.706 --> 00:17:02.196 A:middle
 that you're used to in UIKit to
 now also work with SpriteKit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1392,6 +1426,8 @@ behavior of focus
 
 00:17:58.766 --> 00:18:00.206 A:middle
 within their subview hierarchy.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1462,6 +1498,8 @@ information during focus
 
 00:18:58.066 --> 00:18:59.496 A:middle
 update notifications.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1535,6 +1573,8 @@ SpriteKit, we're going to need
 00:19:58.276 --> 00:20:00.576 A:middle
 to define focus preferences
 to our SKNodes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1621,6 +1661,8 @@ We think this will really help.
 00:20:58.336 --> 00:21:01.336 A:middle
 So that's Focus Interaction
 support in SpriteKit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1700,6 +1742,8 @@ what you need to do to opt in.
 00:21:57.576 --> 00:22:01.086 A:middle
 So that's Focus Interaction
 support for SpriteKit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1784,6 +1828,8 @@ this is what that looks like.
 
 00:22:59.976 --> 00:23:02.246 A:middle
 That's a lot better.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1867,6 +1913,8 @@ to represent our new control.
 00:23:59.896 --> 00:24:04.216 A:middle
 We'll set up some constraints
 on it quickly, so 100 points
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1946,6 +1994,8 @@ item is our control,
 00:24:59.476 --> 00:25:02.426 A:middle
 then we'll configure the focus
 appearance, which just consists
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2026,6 +2076,8 @@ with our focus animations.
 
 00:25:52.516 --> 00:25:54.976 A:middle
 So let's see how this looks.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2103,6 +2155,8 @@ I'll toggle the editing state
 
 00:26:59.226 --> 00:27:00.426 A:middle
 and request a focus update.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2185,6 +2239,8 @@ canBecomeFocused
 00:27:58.486 --> 00:28:02.126 A:middle
 and we'll return false if our
 control is currently editing.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2251,6 +2307,8 @@ background color on the stars.
 
 00:28:51.866 --> 00:28:53.976 A:middle
 So let's see how that looks.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2328,6 +2386,8 @@ preferredFocusEnvironments code,
 00:29:59.476 --> 00:30:05.336 A:middle
 we want to return our last
 selected star if we're editing
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2395,6 +2455,8 @@ because it was a great example
 00:30:58.966 --> 00:31:02.096 A:middle
 of using many different parts
 of the Focus API in order
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2478,6 +2540,8 @@ that focus naturally flows
 00:31:59.706 --> 00:32:01.926 A:middle
 around the screen when
 the user is moving
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2565,6 +2629,8 @@ a few notes on testing.
 00:32:57.996 --> 00:33:03.046 A:middle
 The first is to point out that
 not all input devices have the
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2651,6 +2717,8 @@ correctly and be functional
 00:33:58.486 --> 00:34:00.686 A:middle
 for all users, in
 all situations.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2730,6 +2798,8 @@ really well in all situations.
 
 00:34:57.986 --> 00:35:01.336 A:middle
 So that's our talk today.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2820,6 +2890,8 @@ aspects of the Focus API,
 00:35:58.976 --> 00:36:02.416 A:middle
 some of the basic concepts,
 an in-depth overview of some
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2891,3 +2963,5 @@ a great conference.
 
 00:36:43.996 --> 00:36:44.736 A:middle
 Thank you for coming today.
+
+

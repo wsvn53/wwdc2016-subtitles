@@ -57,6 +57,8 @@ of minutes or even hours.
 00:00:59.456 --> 00:01:01.476 A:middle
 But in watchOS, it's
 just not the case.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -153,6 +155,8 @@ learning more about these,
 00:01:59.866 --> 00:02:01.166 A:middle
 I highly recommend
 that you check
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -257,6 +261,8 @@ My name is Miguel.
 00:02:58.536 --> 00:03:01.246 A:middle
 I'll be giving you a quick
 overview of the new APIs
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -342,6 +348,8 @@ know all there is to know
 00:03:58.876 --> 00:04:01.246 A:middle
 for gesture recognition
 in watchOS.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -421,6 +429,8 @@ your code.
 00:04:59.186 --> 00:05:00.686 A:middle
 This is a function
 that's invoked
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -510,6 +520,8 @@ changing, giving you a chance
 
 00:05:58.526 --> 00:06:00.116 A:middle
 to update your user interface.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -593,6 +605,8 @@ ForceTouch and the LongPress.
 00:06:58.226 --> 00:07:00.166 A:middle
 Now let's move onto our
 second input element --
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -672,6 +686,8 @@ with the rotation values.
 00:07:58.016 --> 00:08:00.346 A:middle
 This is achieved
 through two new objects
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -762,6 +778,8 @@ has rotated.
 00:08:57.736 --> 00:09:00.466 A:middle
 So you will get a callback
 in the crownDidRotate method.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -854,6 +872,8 @@ to moving the content down,
 00:09:58.646 --> 00:09:59.976 A:middle
 we're giving you
 negative values.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -929,6 +949,8 @@ elements and let's talk a lot
 00:10:59.046 --> 00:11:01.466 A:middle
 about the vertical paging
 that we're introducing.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1004,6 +1026,8 @@ But you also need to make sure
 00:11:57.946 --> 00:12:01.306 A:middle
 that your table is
 using the segues API.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1102,6 +1126,8 @@ fairly detailed example
 00:12:59.506 --> 00:13:01.976 A:middle
 on all the badging of
 the lifecycle methods.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1182,6 +1208,8 @@ than dismiss the notification.
 00:13:59.266 --> 00:14:01.006 A:middle
 That is the shortest
 quick interaction.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1254,6 +1282,8 @@ about the new framework itself.
 00:14:57.206 --> 00:15:00.036 A:middle
 But the high-level
 points for you
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1338,6 +1368,8 @@ application is already active
 00:15:58.546 --> 00:16:03.216 A:middle
 on the watch face and the system
 is giving you an opportunity
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1425,6 +1457,8 @@ only for background actions
 00:16:59.806 --> 00:17:01.836 A:middle
 that are scheduled
 on the Watch itself.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1507,6 +1541,8 @@ both on the Watch side
 00:17:58.416 --> 00:18:00.386 A:middle
 and on the iPhone side
 of the notification.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1581,6 +1617,8 @@ and interface builder.
 00:18:59.476 --> 00:19:02.486 A:middle
 You will now see the two
 classes appear in the library.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1663,6 +1701,8 @@ terms of the integration.
 00:19:58.316 --> 00:20:00.526 A:middle
 So I've given you
 a quick overview
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1765,6 +1805,8 @@ in watchOS 2.
 00:20:59.686 --> 00:21:02.146 A:middle
 And now in watchOS 3, they're
 playing an even larger role.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1861,6 +1903,8 @@ and makes all the interactions
 00:21:58.146 --> 00:22:00.476 A:middle
 within your applications
 a lot more responsive.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1964,6 +2008,8 @@ that on the developer website.
 00:22:57.716 --> 00:22:59.546 A:middle
 So I highly recommend
 that you check that out.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2056,6 +2102,8 @@ more customization inside
 
 00:23:59.996 --> 00:24:00.756 A:middle
 of your notifications.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2155,6 +2203,8 @@ that were shared with me.
 00:24:58.156 --> 00:24:59.826 A:middle
 It has the photo
 of my friend, Ivy.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2251,6 +2301,8 @@ is really important inside the
 00:25:58.476 --> 00:26:03.966 A:middle
 notification and add a custom
 interface to reflect that.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2341,6 +2393,8 @@ Gestures and the Digital Crown
 00:26:59.366 --> 00:27:01.026 A:middle
 to use to simplify
 the navigation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2433,6 +2487,8 @@ more information on screen,
 00:27:59.436 --> 00:28:01.316 A:middle
 it's actually a lot
 easier to navigate
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2524,6 +2580,8 @@ with a companion iPhone.
 00:28:59.686 --> 00:29:01.386 A:middle
 Because often times,
 that can lead
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2621,6 +2679,8 @@ has to get that confirmation.
 00:29:57.536 --> 00:30:01.346 A:middle
 And then once it's done that, it
 has to send back to the Watch.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2722,6 +2782,8 @@ on the application.
 
 00:30:59.336 --> 00:31:00.796 A:middle
 And now, in the background,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2821,6 +2883,8 @@ If you're doing networking,
 00:31:58.556 --> 00:32:02.196 A:middle
 you can use a background
 NSURLSession.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2923,6 +2987,8 @@ really fast and responsive.
 00:32:59.816 --> 00:33:01.846 A:middle
 Use complications
 and notifications
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3023,6 +3089,8 @@ of sessions all week.
 00:33:59.976 --> 00:34:02.496 A:middle
 I highly recommend the Designing
 Great Apple Watch Experiences
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3044,3 +3112,5 @@ week in San Francisco.
 
 00:34:10.507 --> 00:34:12.507 A:middle
 [ Applause ]
+
+

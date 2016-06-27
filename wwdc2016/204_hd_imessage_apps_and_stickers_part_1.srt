@@ -45,6 +45,8 @@ provide interactive messages.
 00:00:58.926 --> 00:01:00.746 A:middle
 Interactive messages
 are a type of message
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -122,6 +124,8 @@ videos, text, links, et cetera.
 00:01:57.626 --> 00:02:01.106 A:middle
 Also in iOS X we will
 have a Messages App Store.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -208,6 +212,8 @@ with the application
 
 00:02:58.816 --> 00:02:59.946 A:middle
 from which the Sticker was sent.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -287,6 +293,8 @@ supportive platforms.
 00:03:58.116 --> 00:04:00.706 A:middle
 iMessage apps will
 only run on iOS X.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -371,6 +379,8 @@ Then we're going to talk
 00:04:57.666 --> 00:04:59.726 A:middle
 about creating a
 Sticker Pack application.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -456,6 +466,8 @@ presented its UI your users are
 
 00:05:59.496 --> 00:06:01.206 A:middle
 ready to interact with it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -531,6 +543,8 @@ extensions in iOS and OS X.
 00:06:58.196 --> 00:07:01.826 A:middle
 So as I just mentioned, iMessage
 apps are extensions, however,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -625,6 +639,8 @@ and the Messages App Store.
 00:07:59.766 --> 00:08:03.106 A:middle
 I would like to mention that if
 you do not provide a containing
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -705,6 +721,8 @@ that your application provides.
 00:08:57.256 --> 00:09:00.186 A:middle
 These images can be animated
 or they can be static.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -792,6 +810,8 @@ to create a new Xcode project.
 00:09:59.706 --> 00:10:03.986 A:middle
 And under the Title of
 Application I'm going
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -870,6 +890,8 @@ other is the iMessage App Icon.
 
 00:10:57.826 --> 00:10:59.136 A:middle
 I click on Sticker Pack.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -953,6 +975,8 @@ sequence Xcode expects you
 00:11:57.616 --> 00:12:00.446 A:middle
 to provide the individual
 frames of the Sticker
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1041,6 +1065,8 @@ how it looks like.
 00:12:59.726 --> 00:13:01.956 A:middle
 I'm going to go here
 and test my application
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1124,6 +1150,8 @@ is my message here.
 00:13:56.866 --> 00:14:00.676 A:middle
 Great. Now let me see
 what my app looks like.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1215,6 +1243,8 @@ me go back to Xcode.
 00:14:59.826 --> 00:15:03.276 A:middle
 And I'm going to click
 Go To The Top right here.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1301,6 +1331,8 @@ and for your app icons.
 00:15:57.166 --> 00:16:00.356 A:middle
 I also showed you how to use
 the tool built into Xcode
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1382,6 +1414,8 @@ if not for all of your Stickers.
 00:16:58.396 --> 00:17:00.826 A:middle
 Let's try to understand why
 we have that recommendation
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1463,6 +1497,8 @@ the transparency properties
 00:17:58.016 --> 00:18:02.196 A:middle
 of JPEGs, JPEGs in fact do not
 handle transparency at all.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1540,6 +1576,8 @@ supported dimension is 206
 
 00:18:59.376 --> 00:19:01.376 A:middle
 by 206 points at 3x the scale.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1628,6 +1666,8 @@ Thank you.
 
 00:19:58.656 --> 00:19:59.466 A:middle
 &gt;&gt; Thank you, Bhaskar.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1725,6 +1765,8 @@ fun Stickers using the camera.
 00:20:59.596 --> 00:21:03.986 A:middle
 And finally your application
 can utilize In-app purchases,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1818,6 +1860,8 @@ use nature assets.
 00:21:59.736 --> 00:22:01.846 A:middle
 And we'll go ahead and
 create this project
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1901,6 +1945,8 @@ look at Messages framework.
 00:22:59.346 --> 00:23:03.106 A:middle
 If we click here we have an
 MSStickerBrowserViewController.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1991,6 +2037,8 @@ ViewController.
 00:23:57.316 --> 00:24:04.036 A:middle
 Great. So I'm going to go
 ahead and import UIKit.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2074,6 +2122,8 @@ add assets to our bundle.
 00:24:58.676 --> 00:25:02.916 A:middle
 I'm going to click Add Files
 and then go to my desktop
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2149,6 +2199,8 @@ NatureStickerBrowser
 00:25:53.876 --> 00:25:57.556 A:middle
 ViewController, and we'll
 instantiate it, and viewDidLoad.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2233,6 +2285,8 @@ So let's go ahead and do that.
 00:26:58.176 --> 00:27:02.956 A:middle
 So I'm going to return the
 Stickers count and I'm going
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2302,6 +2356,8 @@ So let's go back to the slides.
 00:27:59.916 --> 00:28:01.496 A:middle
 So to recap what
 we just went over,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2399,6 +2455,8 @@ MSStickerBrowserViewController
 00:28:58.366 --> 00:29:01.866 A:middle
 does, we can do so by
 using these two classes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2496,6 +2554,8 @@ So let's go into another demo.
 00:29:56.796 --> 00:30:01.776 A:middle
 So I'm going to open up an
 application I already have.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2591,6 +2651,8 @@ have a Sticker and,
 00:30:59.806 --> 00:31:03.176 A:middle
 in order to handle animations
 of your animated Stickers,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2672,6 +2734,8 @@ to control these animations.
 00:31:59.366 --> 00:32:02.096 A:middle
 When we're going to display
 our Sticker we're going to want
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2761,6 +2825,8 @@ and then we'll present it.
 00:32:57.026 --> 00:33:01.486 A:middle
 When the user taps the
 Add icon we'll want
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2866,6 +2932,8 @@ click on the App Drawer.
 00:33:59.996 --> 00:34:01.826 A:middle
 And we're going to
 click on Sticker Picker
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2945,6 +3013,8 @@ on designing your application.
 00:34:58.676 --> 00:35:01.836 A:middle
 Bhaskar talked about the Sticker
 File Formats that we used
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3042,3 +3112,5 @@ of the conference.
 
 00:35:55.016 --> 00:35:57.000 A:middle
 [ Applause ]
+
+

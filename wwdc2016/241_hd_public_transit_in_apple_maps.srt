@@ -55,6 +55,8 @@ and Mac OS X, El Capitan.
 00:00:57.016 --> 00:01:02.126 A:middle
 As of today, it is available
 in 21 cities around the world
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -120,6 +122,8 @@ experience.
 00:01:58.556 --> 00:02:01.236 A:middle
 Finally, we show
 realtime advisories
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -195,6 +199,8 @@ that we collect ourselves.
 
 00:02:56.106 --> 00:02:57.976 A:middle
 Station entrances and exits.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -258,6 +264,8 @@ might not even have a name.
 00:03:55.706 --> 00:03:58.996 A:middle
 But from the inside, there's
 often a number or code.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -324,6 +332,8 @@ This builds confidence
 00:04:54.626 --> 00:04:57.286 A:middle
 in the directions the
 customer has been given.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -406,6 +416,8 @@ We capture these subtleties
 00:05:59.716 --> 00:06:01.226 A:middle
 because that allows
 our customers
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -473,6 +485,8 @@ hand, you ride trams.
 00:06:59.056 --> 00:07:01.166 A:middle
 And that is reflected
 in our experience.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -548,6 +562,8 @@ entrances and line geometry
 
 00:07:59.626 --> 00:08:00.766 A:middle
 as we've previously seen.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -609,6 +625,8 @@ BART departures as well
 
 00:08:50.446 --> 00:08:51.896 A:middle
 as the upcoming Muni departures.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -673,6 +691,8 @@ Here is a competing bus route.
 00:09:57.916 --> 00:09:59.986 A:middle
 Now, we didn't recommend
 this because it takes longer.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -740,6 +760,8 @@ at my destination.
 
 00:10:59.656 --> 00:11:01.086 A:middle
 That concludes the presentation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -756,3 +778,5 @@ maps-transit@apple.com.
 
 00:11:08.806 --> 00:11:09.976 A:middle
 Thanks for listening.
+
+

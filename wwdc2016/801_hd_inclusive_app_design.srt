@@ -45,6 +45,8 @@ use your app,
 00:00:56.966 --> 00:00:59.956 A:middle
 you have to consider how
 diverse their perspectives are.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -117,6 +119,8 @@ team to do the right thing.
 00:01:59.386 --> 00:02:02.796 A:middle
 And here are some statistics
 that will persuade them
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -179,6 +183,8 @@ designs that work for them is
 00:02:57.396 --> 00:02:59.506 A:middle
 at the heart of the
 user experience.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -252,6 +258,8 @@ cultural sensitivities
 
 00:03:56.986 --> 00:03:57.966 A:middle
 around iconography.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -316,6 +324,8 @@ you have so many good options.
 00:04:57.626 --> 00:05:00.736 A:middle
 And at this stage, it's
 an excellent opportunity
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -394,6 +404,8 @@ more inclusive just
 00:05:57.286 --> 00:06:00.216 A:middle
 in case a treatment isn't
 applicable in certain languages.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -478,6 +490,8 @@ not be familiar
 00:06:58.986 --> 00:07:01.476 A:middle
 with all ten writing
 systems that are used
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -556,6 +570,8 @@ hierarchy or emphasis.
 00:07:57.706 --> 00:08:01.506 A:middle
 In the next consideration,
 I would like to talk
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -638,6 +654,8 @@ content easily and effortlessly.
 00:08:57.596 --> 00:09:01.206 A:middle
 So leaning toward larger font
 sizes will make the content more
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -719,6 +737,8 @@ to bounds is true for the label.
 00:09:57.616 --> 00:10:00.976 A:middle
 This should be off,
 because this is bad.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -805,6 +825,8 @@ make further make these spaces
 00:10:58.966 --> 00:11:01.346 A:middle
 between labels increase
 dynamically
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -880,6 +902,8 @@ about dynamic layouts.
 00:11:56.396 --> 00:12:01.506 A:middle
 We've talked about the
 appearance of words from all
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -963,6 +987,8 @@ three times longer or more.
 00:12:56.606 --> 00:13:01.316 A:middle
 A seemingly concise English
 phrase may be two times longer
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1036,6 +1062,8 @@ seeing in the language
 
 00:13:58.096 --> 00:14:00.156 A:middle
 that you are designing in.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1124,6 +1152,8 @@ and that's Dynamic Type.
 00:14:59.676 --> 00:15:03.146 A:middle
 This feature might be one of
 the most important features
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1194,6 +1224,8 @@ their UIs dynamically.
 00:15:58.326 --> 00:16:01.456 A:middle
 So, how do I specify a
 design to be dynamic?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1271,6 +1303,8 @@ are the sizes
 
 00:16:59.556 --> 00:17:02.196 A:middle
 that the fonts will appear at.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1345,6 +1379,8 @@ the spaces proportionately
 
 00:17:58.696 --> 00:18:00.906 A:middle
 to the font size as it changes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1424,6 +1460,8 @@ mail message screen,
 00:18:57.426 --> 00:18:59.576 A:middle
 growing from large to
 extra, extra large.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1497,6 +1535,8 @@ And now, so the margins adjust
 00:19:58.796 --> 00:19:59.976 A:middle
 when the text size
 setting changes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1573,6 +1613,8 @@ still increase from the left
 00:20:59.916 --> 00:21:03.616 A:middle
 to the right and rewind always
 points the triangles facing left
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1651,6 +1693,8 @@ of the images follows the steps.
 00:21:56.676 --> 00:21:59.666 A:middle
 However, we should not
 mirror the checkmark
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1732,6 +1776,8 @@ the Dynamic Type settings
 00:22:58.136 --> 00:23:02.036 A:middle
 and Making Apps Adaptive, Part
 2, will give you a summary
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1812,6 +1858,8 @@ like blue so much?
 00:23:59.556 --> 00:24:03.656 A:middle
 I mean, blue has a short
 wavelength on the spectrum
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1889,6 +1937,8 @@ on Saint Patrick's Day
 00:24:58.036 --> 00:24:59.966 A:middle
 and is also known throughout
 the world as a lucky color.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1961,6 +2011,8 @@ and green to mean losses.
 00:25:58.976 --> 00:26:04.416 A:middle
 And the next color consideration
 is color blindness.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2038,6 +2090,8 @@ blind, you may not be able
 00:26:57.766 --> 00:27:00.796 A:middle
 to tell the difference from
 the orange flagging dot
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2114,6 +2168,8 @@ to calculate color contrast
 00:27:57.956 --> 00:28:02.166 A:middle
 by using RGB values and it
 will also tell you if you're
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2195,6 +2251,8 @@ small text sizes.
 00:28:58.176 --> 00:29:01.886 A:middle
 When font sizes are small
 and have low contrast,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2273,6 +2331,8 @@ orange button is 9.6 to 1.
 00:29:59.196 --> 00:30:03.056 A:middle
 So in this particular example,
 choose black on orange.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2352,6 +2412,8 @@ and values shape the message.
 00:30:59.176 --> 00:31:01.936 A:middle
 For example, to be -- in
 order to be multicultural,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2433,6 +2495,8 @@ in a glyph, but an open,
 00:31:59.746 --> 00:32:02.996 A:middle
 facing palm is actually
 offensive in some countries.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2516,6 +2580,8 @@ about icons and glyphs,
 00:32:59.076 --> 00:33:01.866 A:middle
 iconography can conflict
 with cultural norms
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2595,6 +2661,8 @@ in their language?
 
 00:33:59.246 --> 00:34:01.266 A:middle
 Is everything easy to read?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2681,6 +2749,8 @@ And Making Apps Adaptive, Part
 00:34:58.296 --> 00:35:01.916 A:middle
 readable content guides, assets
 and appearance customization.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2710,3 +2780,5 @@ images with asset catalog.
 00:35:15.276 --> 00:35:16.976 A:middle
 Thank you and have
 a great conference.
+
+

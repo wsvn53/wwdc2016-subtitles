@@ -47,6 +47,8 @@ buy something online but given
 00:00:57.566 --> 00:00:59.986 A:middle
 up because the checkout
 was just too confusing?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -145,6 +147,8 @@ And we are going to talk today
 00:01:59.736 --> 00:02:02.256 A:middle
 about how we can solve
 the problem of checkouts
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -233,6 +237,8 @@ If you haven't, give it a go.
 00:02:59.686 --> 00:03:02.966 A:middle
 There are some great apps
 like Lyft or Uber or DoorDash
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -310,6 +316,8 @@ in applications.
 00:03:59.366 --> 00:04:00.876 A:middle
 But I think there is
 something missing.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -403,6 +411,8 @@ place we are bringing it to,
 00:04:56.386 --> 00:05:00.806 A:middle
 and the reason you are here
 today, is the web and Safari.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -492,6 +502,8 @@ the web is available
 
 00:05:57.776 --> 00:06:00.306 A:middle
 on any Apple Pay device today.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -569,6 +581,8 @@ on your Apple Watch.
 00:06:59.416 --> 00:07:02.986 A:middle
 You can simply tap through
 continuity to authorize.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -657,6 +671,8 @@ Yeah, we'll go say hi to Craig.
 00:07:59.926 --> 00:08:02.036 A:middle
 OK. I clicked the buy
 with Apple Pay button,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -745,6 +761,8 @@ a web developer.
 00:08:57.116 --> 00:09:01.806 A:middle
 So Apple Pay provides you
 with a unique payment token.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -833,6 +851,8 @@ are unique to you,
 00:09:56.336 --> 00:09:59.246 A:middle
 and because only you can
 decrypt these tokens,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -910,6 +930,8 @@ this reencrypted,
 00:10:56.296 --> 00:10:59.726 A:middle
 rewrapped payment data
 that you can then forward
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -993,6 +1015,8 @@ eCommerce platforms we are
 00:11:59.546 --> 00:12:02.806 A:middle
 partnering with in the next
 section on payment processing.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1085,6 +1109,8 @@ and our merchant certificate.
 
 00:12:58.876 --> 00:13:00.306 A:middle
 They identify us as a merchant.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1174,6 +1200,8 @@ you, and you forward it
 
 00:13:59.856 --> 00:14:01.446 A:middle
 on with your payment request.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1255,6 +1283,8 @@ it protects you as merchants.
 00:14:58.406 --> 00:15:00.746 A:middle
 If your site is compromised, for
 example, you have an easy way
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1346,6 +1376,8 @@ call,
 00:15:58.336 --> 00:15:59.796 A:middle
 it doesn't take very
 much to request it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1447,6 +1479,8 @@ the next section when we talk
 
 00:16:59.376 --> 00:17:01.336 A:middle
 about the JavaScript API.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1527,6 +1561,8 @@ not the same API
 00:17:56.836 --> 00:17:59.686 A:middle
 because sadly we can't
 call Swift from the web.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1593,6 +1629,8 @@ It's a relatively simple API.
 00:18:57.916 --> 00:19:01.026 A:middle
 It's got a single entry
 point called ApplePaySession.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1661,6 +1699,8 @@ at the website and see
 
 00:19:57.456 --> 00:19:58.716 A:middle
 if we can figure out why.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1716,6 +1756,8 @@ an Apple Pay button
 00:20:54.806 --> 00:20:59.926 A:middle
 so that you can place orders
 right on the main product page?
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1795,6 +1837,8 @@ it has a secure element.
 
 00:21:58.866 --> 00:22:00.206 A:middle
 And if you are on a Mac,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1876,6 +1920,8 @@ you want to default
 00:22:58.186 --> 00:23:01.756 A:middle
 to Apple Pay during your
 checkout flow or if you want
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1959,6 +2005,8 @@ So in order to do that,
 00:23:59.696 --> 00:24:01.686 A:middle
 we'll create a new
 ApplePaySession
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2036,6 +2084,8 @@ new ApplePaySession object,
 00:24:59.586 --> 00:25:01.976 A:middle
 you simply call Begin and
 that'll present the sheet.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2099,6 +2149,8 @@ details right.
 00:25:52.436 --> 00:26:00.086 A:middle
 And because of this, before we
 present the sheet we perform a
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2172,6 +2224,8 @@ we don't recognize,
 
 00:26:56.696 --> 00:26:57.786 A:middle
 that will throw an exception.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2236,6 +2290,8 @@ actually confirm the payment
 00:27:57.706 --> 00:28:00.456 A:middle
 yet; we have this
 loading spinner going.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2319,6 +2375,8 @@ I pass in the merchant session,
 00:28:58.036 --> 00:28:59.626 A:middle
 And that's how you do
 merchant validation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2390,6 +2448,8 @@ I call sendPaymentToken.
 
 00:29:58.826 --> 00:29:59.976 A:middle
 I pass in the token.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2459,6 +2519,8 @@ Here we go.
 00:30:59.446 --> 00:31:02.646 A:middle
 So first of all,
 this is the website.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2535,6 +2597,8 @@ host it on your website.
 
 00:31:59.466 --> 00:32:01.816 A:middle
 OK. So the first thing we want
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2621,6 +2685,8 @@ applePayButtonClicked function
 00:32:56.226 --> 00:32:59.856 A:middle
 that is invoked whenever
 the user clicks on a button.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2687,6 +2753,8 @@ the merchant validation.
 
 00:33:59.956 --> 00:34:03.536 A:middle
 So let's go ahead and do that.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2755,6 +2823,8 @@ bring up QuickTime
 00:34:56.636 --> 00:34:59.976 A:middle
 so we can actually see what this
 looks like on the phone as well.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2820,6 +2890,8 @@ Throw me a bone.
 00:35:59.306 --> 00:36:00.776 A:middle
 I'm wasted in software
 engineering.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2898,6 +2970,8 @@ they can decrypt it for you
 00:36:56.486 --> 00:36:58.866 A:middle
 on your behalf if you
 provide them with the keys.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2984,6 +3058,8 @@ distribute an app or a site
 00:37:56.306 --> 00:37:58.716 A:middle
 in Asia, you have got great
 support there as well.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3068,6 +3144,8 @@ the Apple Pay Sandbox.
 
 00:38:58.826 --> 00:39:00.856 A:middle
 It's a new way to test.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3153,6 +3231,8 @@ piece: Designing for Apple Pay.
 00:39:59.556 --> 00:40:02.976 A:middle
 How to build a compelling
 experience for your websites.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3233,6 +3313,8 @@ these three phases
 00:40:57.786 --> 00:41:01.446 A:middle
 and discuss how your
 designs can work
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3323,6 +3405,8 @@ There is also some don'ts.
 00:41:59.446 --> 00:42:03.586 A:middle
 Don't modify the button, or
 don't change its behavior.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3405,6 +3489,8 @@ to come up with some designs
 00:42:57.696 --> 00:42:59.376 A:middle
 and some experiences
 that use Apple Pay.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3494,6 +3580,8 @@ enabling a guest checkout.
 00:43:59.776 --> 00:44:03.166 A:middle
 Required registration is a
 major source of user friction.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3571,6 +3659,8 @@ I am using the Mac OS sheet.
 00:44:57.236 --> 00:45:00.546 A:middle
 But the same fields
 are available on iOS
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3660,6 +3750,8 @@ an app, when you upload it
 00:45:59.506 --> 00:46:00.686 A:middle
 to the App Store
 you are required
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3758,6 +3850,8 @@ than postal address.
 00:46:59.906 --> 00:47:01.746 A:middle
 Now we support collecting
 phone number.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3843,6 +3937,8 @@ there are some cases
 00:47:57.496 --> 00:47:59.886 A:middle
 where you don't necessarily know
 the amount you want to charge.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3929,6 +4025,8 @@ field on the Mac OS sheet,
 00:48:59.266 --> 00:49:03.156 A:middle
 and that's the field that tells
 you which device to confirm on.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4004,6 +4102,8 @@ Whatever works best for you.
 00:49:58.216 --> 00:49:59.966 A:middle
 I'd also like to briefly
 touch upon something else.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4101,6 +4201,8 @@ you get a confirmation page
 00:50:59.376 --> 00:51:03.356 A:middle
 and you actually get a create
 an account field that's
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4198,6 +4300,8 @@ about extensions.
 00:51:57.976 --> 00:52:00.636 A:middle
 And we're going to talk about
 some of the new things in Wallet
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4239,3 +4343,5 @@ a great WWDC.
 
 00:52:19.016 --> 00:52:21.000 A:middle
 [ Applause ]
+
+

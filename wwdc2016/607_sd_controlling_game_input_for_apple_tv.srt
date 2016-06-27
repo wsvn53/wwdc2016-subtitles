@@ -46,6 +46,8 @@ and Apple TV is great for that.
 
 00:00:58.426 --> 00:01:00.036 A:middle
 It gives you the tools you need
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -122,6 +124,8 @@ get started.
 00:01:58.806 --> 00:02:02.976 A:middle
 Now apps on tvOS
 typically take their input
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -200,6 +204,8 @@ of the controller vendors.
 00:02:56.796 --> 00:02:58.936 A:middle
 It standardizes detection
 of controllers.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -281,6 +287,8 @@ on GCController.
 00:03:59.686 --> 00:04:02.586 A:middle
 This returns you a list of the
 currently connected controllers
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -352,6 +360,8 @@ supports two profiles.
 00:04:57.456 --> 00:05:00.236 A:middle
 The first is called
 GCMicroGamepad.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -420,6 +430,8 @@ as a digital input basically
 00:05:55.356 --> 00:05:58.086 A:middle
 as four buttons up,
 down, left and right.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -500,6 +512,8 @@ the MicroGamepad profile.
 00:06:59.856 --> 00:07:02.766 A:middle
 That stores the button A
 and button X properties
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -589,6 +603,8 @@ the value property
 00:07:57.846 --> 00:08:02.006 A:middle
 which returns a float normalized
 between zero or sorry,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -662,6 +678,8 @@ that they're touching
 00:08:59.896 --> 00:09:02.276 A:middle
 on the touch surface,
 but rather they just want
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -752,6 +770,8 @@ dragging my thumb
 00:09:59.886 --> 00:10:02.806 A:middle
 across the touch surface
 it drags the window
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -821,6 +841,8 @@ and this means X is going
 
 00:10:57.866 --> 00:11:00.236 A:middle
 to the right and Y is going up.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -912,6 +934,8 @@ to the right and Y is going up.
 00:11:56.066 --> 00:12:00.126 A:middle
 And in landscape left X is going
 to the right and Y is going up.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -996,6 +1020,8 @@ and what we mean by that is
 00:12:56.426 --> 00:13:00.116 A:middle
 that the accelerometer and the
 gyroscope help to reinforce
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1071,6 +1097,8 @@ MFi game controllers.
 00:13:58.936 --> 00:14:04.036 A:middle
 Now in an app on tvOS when
 the Menu button is pressed the
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1134,6 +1162,8 @@ system their intent.
 
 00:14:57.266 --> 00:14:57.966 A:middle
 Let me explain.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1217,6 +1247,8 @@ the root view controller,
 00:15:58.016 --> 00:15:59.706 A:middle
 for the entire duration
 of their game.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1294,6 +1326,8 @@ view controller effectively
 00:16:59.566 --> 00:17:02.536 A:middle
 traps the Menu button presses
 and prevents them from going
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1396,6 +1430,8 @@ Therefore,
 00:17:58.906 --> 00:18:00.776 A:middle
 set
 controllerUserInteractionEnabled
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1489,6 +1525,8 @@ going to be bounced back
 
 00:18:58.566 --> 00:18:59.816 A:middle
 to the Apple TV Home Screen.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1568,6 +1606,8 @@ it features two thumb sticks
 00:19:57.656 --> 00:20:00.126 A:middle
 and on top we have two
 shoulders and two triggers.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1657,6 +1697,8 @@ all pressure-sensitive
 00:20:59.526 --> 00:21:02.486 A:middle
 and so they can be read in an
 analog and in a digital sense.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1747,6 +1789,8 @@ property which corresponds
 00:21:58.206 --> 00:22:02.396 A:middle
 to the value or sorry, a value
 change handler which corresponds
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1833,6 +1877,8 @@ probably have an understanding
 00:22:58.876 --> 00:23:03.566 A:middle
 of the mechanics of
 connecting and reading inputs
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1900,6 +1946,8 @@ game supports.
 00:23:58.026 --> 00:24:01.696 A:middle
 Interacting with this GUI
 changes the keys and values
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1976,6 +2024,8 @@ controllers connected.
 00:24:56.096 --> 00:24:59.766 A:middle
 And this is a case that you
 need to account for and handle.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2057,6 +2107,8 @@ see Designing for tvOS,
 00:25:56.656 --> 00:26:00.000 A:middle
 session 802 for more information
 on requiring game controllers.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2130,6 +2182,8 @@ In fact, it's indistinguishable
 00:26:58.106 --> 00:27:00.766 A:middle
 in the Game Controller
 framework from the Siri Remote.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2205,6 +2259,8 @@ as distinct instances
 
 00:27:58.176 --> 00:27:59.506 A:middle
 in your controllers array.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2272,6 +2328,8 @@ you're effectively going
 
 00:28:58.956 --> 00:29:00.456 A:middle
 to be doing a double rotation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2349,6 +2407,8 @@ way on the Game Controller mode
 
 00:29:58.886 --> 00:30:00.000 A:middle
 for the Apple TV Remote app.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2409,6 +2469,8 @@ connected or maybe you're going
 00:30:58.246 --> 00:31:00.386 A:middle
 to find a game controller
 connected
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2494,6 +2556,8 @@ to switch freely and flexibly
 00:31:58.986 --> 00:32:01.696 A:middle
 between different
 controllers without having
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2582,6 +2646,8 @@ really well we're able
 00:32:59.156 --> 00:33:03.456 A:middle
 to give the player a system here
 in your game where they're able
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2671,6 +2737,8 @@ gate on whether it's taking
 00:33:59.616 --> 00:34:02.856 A:middle
 that information from
 motion or from thumb sticks.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2746,6 +2814,8 @@ be directly used by your game
 00:34:58.176 --> 00:35:01.736 A:middle
 or maybe they're a good starting
 point and you can tweak them
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2828,6 +2898,8 @@ behavior varies depending
 
 00:35:58.476 --> 00:35:59.686 A:middle
 on the context of your app.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2909,6 +2981,8 @@ as you can for your game.
 
 00:36:59.646 --> 00:37:01.696 A:middle
 Here's the URL for this session.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2943,3 +3017,5 @@ for your attention
 00:37:20.356 --> 00:37:21.826 A:middle
 and have a wonderful
 rest of your show.
+
+

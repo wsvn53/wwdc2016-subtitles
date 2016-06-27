@@ -60,6 +60,8 @@ with iPhone 4S,
 00:00:59.166 --> 00:01:01.606 A:middle
 iOS has also featured
 keyboard dictation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -143,6 +145,8 @@ button is available.
 00:01:58.176 --> 00:02:00.596 A:middle
 The default audio recording
 might not make sense
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -223,6 +227,8 @@ from Arabic to Vietnamese.
 00:02:57.206 --> 00:03:01.256 A:middle
 Any device which runs
 iOS 10 is supported.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -300,6 +306,8 @@ usage description
 00:03:57.506 --> 00:04:01.536 A:middle
 for speech recognition
 of this will allow you
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -382,6 +390,8 @@ all looks like in code.
 00:04:59.286 --> 00:05:01.546 A:middle
 We'll assume we've already
 updated our info.plist
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -464,6 +474,8 @@ be changed later
 00:05:57.466 --> 00:05:59.156 A:middle
 in the device's privacy
 settings.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -529,6 +541,8 @@ file's url and give
 00:06:52.916 --> 00:06:56.976 A:middle
 that to the recognition task
 method of the recognizer.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -601,6 +615,8 @@ instead of a file on disc.
 00:07:59.696 --> 00:08:03.316 A:middle
 Here we'll use AVAudioEngine to
 get a stream of audio buffers.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -679,6 +695,8 @@ started recognition.
 00:08:57.446 --> 00:08:59.856 A:middle
 This can also be done for
 prerecorded audio recognition.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -750,6 +768,8 @@ which is similar to that
 
 00:09:57.936 --> 00:09:58.976 A:middle
 of keyboard dictation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -833,6 +853,8 @@ where it's not available
 00:10:57.756 --> 00:10:59.656 A:middle
 or the user doesn't
 want your app to use it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -876,3 +898,5 @@ on Thursday.
 00:11:26.706 --> 00:11:28.976 A:middle
 Thank you for your time
 and have a great WWDC.
+
+

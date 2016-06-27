@@ -49,6 +49,8 @@ want to start with some basics.
 00:00:57.176 --> 00:01:00.486 A:middle
 Now, after all, some of you
 may have never designed a
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -128,6 +130,8 @@ overlook.
 00:01:57.176 --> 00:02:00.266 A:middle
 And because they're also
 interactive, they're a great way
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -212,6 +216,8 @@ is about to arrive,
 00:02:58.066 --> 00:03:00.786 A:middle
 I might get another
 notification letting me know.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -293,6 +299,8 @@ always challenge yourself
 00:03:57.406 --> 00:04:00.916 A:middle
 to find faster and less
 complicated user flows.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -384,6 +392,8 @@ that people could swipe through.
 00:04:58.346 --> 00:05:01.676 A:middle
 One for controls, and one for
 each of the workout metrics.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -459,6 +469,8 @@ comprehensible.
 00:05:56.786 --> 00:06:00.846 A:middle
 Your design must communicate
 clearly and without distraction.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -540,6 +552,8 @@ are kept in memory
 00:06:58.436 --> 00:07:01.136 A:middle
 and can periodically
 perform background updates,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -613,6 +627,8 @@ and should be that quick.
 00:07:59.136 --> 00:08:01.116 A:middle
 Now, throughout the day,
 you might spend way more
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -682,6 +698,8 @@ complications.
 00:08:56.466 --> 00:09:00.696 A:middle
 Now, in my humble opinion,
 complications are the easiest
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -768,6 +786,8 @@ has a gallery of watch faces
 00:09:59.806 --> 00:10:02.186 A:middle
 that are preconfigured
 with complications.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -844,6 +864,8 @@ be less stale.
 00:10:58.026 --> 00:11:01.436 A:middle
 Complications are great app
 launchers, and the information
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -923,6 +945,8 @@ current when it matters most.
 00:11:58.096 --> 00:11:59.786 A:middle
 Now as you work on
 your complication,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -996,6 +1020,8 @@ before I go to work.
 00:12:58.986 --> 00:13:00.916 A:middle
 So the night before,
 I might check
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1088,6 +1114,8 @@ to filling those rings,
 00:13:58.636 --> 00:14:01.006 A:middle
 or if I need to go
 for an extra-long walk
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1164,6 +1192,8 @@ it down to just one piece
 00:14:59.586 --> 00:15:02.716 A:middle
 of information, consider
 giving people options.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1240,6 +1270,8 @@ a really great feature.
 00:15:57.846 --> 00:16:00.426 A:middle
 And CARROT Weather has
 also done a great job
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1325,6 +1357,8 @@ the modular large complication
 00:16:58.336 --> 00:17:01.476 A:middle
 family and the modular
 small family.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1411,6 +1445,8 @@ that they like best.
 00:17:58.416 --> 00:18:00.586 A:middle
 And be sure to use
 placeholder data
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1495,6 +1531,8 @@ to show current temperature
 00:18:56.626 --> 00:19:00.696 A:middle
 and condition, and modular small
 to show chance of precipitation.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1574,6 +1612,8 @@ to the weekend watch face.
 00:19:58.556 --> 00:20:01.196 A:middle
 Now think about all of
 the different things
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1645,6 +1685,8 @@ should be glanceable.
 00:20:57.496 --> 00:21:00.396 A:middle
 Keep in mind that the person
 receiving your notification
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1733,6 +1775,8 @@ what's necessary.
 
 00:21:58.146 --> 00:21:59.626 A:middle
 I can't stress this enough.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1824,6 +1868,8 @@ down in the notification.
 00:22:59.056 --> 00:23:02.506 A:middle
 Fourth, vary the size
 and appearance of type
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1905,6 +1951,8 @@ quickly and with impact.
 00:23:58.306 --> 00:24:01.416 A:middle
 Visuals can sometimes
 communicate meaning faster
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1983,6 +2031,8 @@ Getting a notification
 00:24:58.726 --> 00:25:03.066 A:middle
 at the wrong time can be just
 distracting or really annoying.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2063,6 +2113,8 @@ great examples of this.
 00:25:59.486 --> 00:26:02.556 A:middle
 The first is from the
 awesome weather app, Dark Sky.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2143,6 +2195,8 @@ really great insights
 
 00:26:58.956 --> 00:27:00.476 A:middle
 into what people want to know
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2225,6 +2279,8 @@ do on a regular basis
 00:27:57.836 --> 00:28:01.216 A:middle
 but just can't seem
 to remember to do it.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2302,6 +2358,8 @@ Now, that's a bit early.
 00:28:56.806 --> 00:29:00.386 A:middle
 So I can tap a 30-minute
 snooze button and keep delaying
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2384,6 +2442,8 @@ individual notifications,
 00:29:58.776 --> 00:30:00.976 A:middle
 you just want one
 single daily reminder.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2469,6 +2529,8 @@ great for offering brief periods
 00:30:58.526 --> 00:31:00.686 A:middle
 of engagement to people
 throughout the course
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2556,6 +2618,8 @@ people into your app,
 
 00:31:59.686 --> 00:32:03.376 A:middle
 it's time to talk about apps.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2634,6 +2698,8 @@ the Dock, it'll be woken up so
 00:32:59.656 --> 00:33:03.126 A:middle
 that it can update its
 snapshot if content is changed.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2712,6 +2778,8 @@ the app, you were looking
 
 00:33:59.446 --> 00:34:00.616 A:middle
 at this particular game.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2803,6 +2871,8 @@ best practices.
 00:34:59.296 --> 00:35:01.786 A:middle
 First and foremost,
 your objective is
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2880,6 +2950,8 @@ who wants to follow every game.
 00:35:59.056 --> 00:36:01.816 A:middle
 And for other apps, other
 contextual factors like time
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2976,6 +3048,8 @@ legibility that might be fine.
 00:36:58.766 --> 00:37:01.066 A:middle
 But don't make it look
 completely different.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3060,6 +3134,8 @@ fonts are more legible.
 00:37:56.336 --> 00:38:00.686 A:middle
 And for really key information,
 try using large format type.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3136,6 +3212,8 @@ to look great in the Dock.
 00:38:57.516 --> 00:39:04.456 A:middle
 Okay. So, the next big change
 to apps on watchOS 3 is a simple
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3218,6 +3296,8 @@ have doors, I guess.
 00:39:59.246 --> 00:40:02.836 A:middle
 It's now possible to navigate
 directly from one detail view
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3301,6 +3381,8 @@ Crown is far more efficient
 00:40:57.756 --> 00:41:00.426 A:middle
 than swiping horizontally
 from one page to another.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3391,6 +3473,8 @@ raise of the wrist,
 00:41:56.736 --> 00:41:59.176 A:middle
 that timer gets reset
 back to 8 minutes.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3469,6 +3553,8 @@ saves a lot of time.
 00:42:59.186 --> 00:43:02.926 A:middle
 Okay. Now, the fourth
 major watchOS change
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3544,6 +3630,8 @@ with other people.
 00:43:58.456 --> 00:44:01.466 A:middle
 And as we all know, people
 do not always get back
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3634,6 +3722,8 @@ your server responds,
 00:44:58.046 --> 00:45:00.976 A:middle
 Apple Watch will
 wake up your app.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3715,6 +3805,8 @@ right, people should feel free
 00:45:55.296 --> 00:45:59.746 A:middle
 to drop their wrist, trusting
 that your app is working hard
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3792,6 +3884,8 @@ second and take stock.
 00:46:57.916 --> 00:47:02.666 A:middle
 We looked at the new Dock
 UI and how to make your app
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3881,6 +3975,8 @@ some really cool new APIs
 00:47:57.646 --> 00:48:00.436 A:middle
 and frameworks to let you
 do some amazing things.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3956,6 +4052,8 @@ or pan, or long press.
 00:48:58.326 --> 00:49:03.576 A:middle
 This one takes a
 little bit of time.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4047,6 +4145,8 @@ like modify the fill color
 00:49:59.306 --> 00:50:01.626 A:middle
 of the rings to reflect
 the current value.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4134,6 +4234,8 @@ Now, I could go on.
 00:50:57.846 --> 00:51:00.166 A:middle
 This is a lot of fun to just
 try to think about this stuff,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4208,6 +4310,8 @@ experience requires keeping
 
 00:51:59.786 --> 00:52:00.756 A:middle
 things simple.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4290,6 +4394,8 @@ expect your app to be current
 00:52:59.586 --> 00:53:02.296 A:middle
 and relevant to their
 constantly-shifting needs.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4360,6 +4466,8 @@ great watch app.
 00:53:57.736 --> 00:54:00.766 A:middle
 Now, for Apple Watch,
 perhaps the best advice
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4441,6 +4549,8 @@ delightful,
 00:54:57.456 --> 00:55:00.166 A:middle
 and platform-defining
 experiences.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4535,3 +4645,5 @@ very much for your time.
 
 00:55:57.516 --> 00:56:01.500 A:middle
 [ Applause ]
+
+

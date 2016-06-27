@@ -39,6 +39,8 @@ so I dabbled in a number
 00:00:57.326 --> 00:00:59.836 A:middle
 of different fields, a
 number of different devices.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -111,6 +113,8 @@ that struck me.
 00:01:59.496 --> 00:02:01.926 A:middle
 So I went to Vidya
 Sagar and I sat down
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -193,6 +197,8 @@ difficulty with a few things
 
 00:02:59.466 --> 00:03:01.306 A:middle
 that we take for granted.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -271,6 +277,8 @@ to this particular animal.
 00:03:57.466 --> 00:04:01.316 A:middle
 It's very much abstract sound
 through which we've assigned,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -354,6 +362,8 @@ discovered in the 70s
 00:04:59.336 --> 00:05:01.366 A:middle
 and the 80s and was being
 used quite effectively.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -431,6 +441,8 @@ America, in 2007 and 2008,
 00:05:57.706 --> 00:06:01.816 A:middle
 this concept was being used
 quite effectively as part
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -516,6 +528,8 @@ to create a touchscreen tablet
 
 00:06:59.476 --> 00:07:00.956 A:middle
 for a fraction of the price just
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -594,6 +608,8 @@ with these prototypes
 00:07:58.096 --> 00:08:02.356 A:middle
 and you build these
 things that you take
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -691,6 +707,8 @@ You know, every developer --
 00:08:58.966 --> 00:09:02.506 A:middle
 I'm sure every one of you here
 has a happy-customer story
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -772,6 +790,8 @@ said, "This sucks."
 
 00:09:59.516 --> 00:10:03.726 A:middle
 [ Applause ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -836,6 +856,8 @@ that was ready for release,
 00:10:58.556 --> 00:11:01.926 A:middle
 the first product that
 we built off Avaz.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -908,6 +930,8 @@ with plastic.
 00:11:53.326 --> 00:12:02.586 A:middle
 So that's the final version
 of Avaz that we put out.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -992,6 +1016,8 @@ a lot of interest,
 00:12:59.586 --> 00:13:01.406 A:middle
 and even though this was
 really helping the kids
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1067,6 +1093,8 @@ how to code for iOS.
 00:13:55.966 --> 00:14:02.926 A:middle
 And in 2011, we launched the
 first version of the Avaz App.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1139,6 +1167,8 @@ and remember these pictures.
 00:14:59.906 --> 00:15:01.706 A:middle
 And every time they
 tap the picture.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1217,6 +1247,8 @@ who had worked with us
 00:15:56.176 --> 00:16:00.216 A:middle
 to build Avaz, he
 grew to love Avaz.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1298,6 +1330,8 @@ My personal favorite anecdote
 00:16:59.776 --> 00:17:03.286 A:middle
 about Avaz users is actually
 something that happened back
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1379,6 +1413,8 @@ a special guest.
 00:17:58.426 --> 00:18:00.776 A:middle
 But really, the principal
 expected me to jump
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1461,6 +1497,8 @@ moment in the history
 00:18:56.926 --> 00:18:59.936 A:middle
 of Avaz happened a little
 later, a few months later.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1548,6 +1586,8 @@ the person that would work
 00:19:59.066 --> 00:20:02.656 A:middle
 with the kid in order to
 implement the app for them.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1641,6 +1681,8 @@ three times over with the number
 00:20:58.466 --> 00:20:59.816 A:middle
 of speech therapists
 that are in India.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1716,6 +1758,8 @@ to -- to their parents.
 00:21:58.676 --> 00:22:01.186 A:middle
 So this happened, you
 know, in 2011 shortly
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1805,6 +1849,8 @@ And it's
 00:22:58.496 --> 00:23:00.416 A:middle
 for an assistive-technology
 application.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1894,6 +1940,8 @@ wanted to go to the bathroom,
 00:23:58.396 --> 00:24:00.236 A:middle
 for example, they
 could go into the app
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -1982,6 +2030,8 @@ of pictures into that.
 00:24:57.646 --> 00:25:00.586 A:middle
 But this is actually a different
 level of symbolism at play here.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2075,6 +2125,8 @@ of this is obviously, "I ate."
 00:25:59.156 --> 00:26:01.706 A:middle
 But if you negate this sentence,
 if you say, "I didn't eat,"
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2159,6 +2211,8 @@ the scientific journals.
 00:26:59.926 --> 00:27:01.506 A:middle
 We went to all of the
 scientific conferences.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2233,6 +2287,8 @@ language of Sanskrit,
 00:27:57.206 --> 00:28:03.396 A:middle
 and he created a concise,
 complete, consistent set
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2310,6 +2366,8 @@ rules of grammar and put it
 00:28:58.846 --> 00:29:01.306 A:middle
 into a computer in some
 sense and see if we can use
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2409,6 +2467,8 @@ there and trying to figure
 00:29:59.476 --> 00:30:01.566 A:middle
 out what she meant
 by the word "eat".
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2497,6 +2557,8 @@ wanted without using grammar.
 00:30:58.616 --> 00:31:02.026 A:middle
 I mean, this girl could not put
 more than one word together.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2580,6 +2642,8 @@ this app out --
 00:31:59.806 --> 00:32:01.166 A:middle
 this year, just a
 few months ago.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2654,6 +2718,8 @@ this lattice this scaffold
 00:32:56.106 --> 00:32:59.236 A:middle
 of questions around the word
 that you've just dropped
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2736,6 +2802,8 @@ say, "The parent wants."
 00:33:58.526 --> 00:34:00.146 A:middle
 And you see that every
 time you add a word,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2840,6 +2908,8 @@ I can make a question out of it.
 00:34:59.176 --> 00:35:01.276 A:middle
 &gt;&gt; Didn't her parents
 didn't want to see you.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -2940,6 +3010,8 @@ goes away.
 
 00:35:57.706 --> 00:36:00.076 A:middle
 Why? Because of spell check.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3029,6 +3101,8 @@ four or five-word sentences.
 00:36:58.836 --> 00:37:01.566 A:middle
 In fact, there was this
 one particular kid --
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3100,6 +3174,8 @@ Meal.
 
 00:37:57.106 --> 00:37:58.756 A:middle
 More words.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3179,6 +3255,8 @@ got this video, I got an email
 00:38:56.526 --> 00:38:59.486 A:middle
 from Lucas asking me if he could
 quit his job and join my team.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3260,6 +3338,8 @@ different languages.
 00:39:57.616 --> 00:40:00.806 A:middle
 But the problem of how do
 you give a voice to somebody
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3343,6 +3423,8 @@ I know zero Spanish.
 00:40:57.136 --> 00:41:01.176 A:middle
 But, you know, I'm going
 to try to use the pictures
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3424,6 +3506,8 @@ that so it becomes "quiero"
 00:41:57.546 --> 00:41:59.806 A:middle
 when you use it for
 the word "I".
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3520,6 +3604,8 @@ put these words together,
 00:42:58.176 --> 00:42:59.816 A:middle
 the way that you
 construct these sentences,
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3614,6 +3700,8 @@ the same user interface.
 00:43:59.356 --> 00:44:01.286 A:middle
 &gt;&gt; But I'm creating a
 sentence in another language.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3687,6 +3775,8 @@ the app now, and I'm going
 00:44:53.516 --> 00:44:59.936 A:middle
 to go back into the Settings
 and I'm going to pick Chinese.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3766,6 +3856,8 @@ that I did with English.
 00:45:57.186 --> 00:46:02.316 A:middle
 For example, I can say,
 "That happened in the past."
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3835,6 +3927,8 @@ playing with FreeSpeech.
 
 00:46:54.516 --> 00:47:10.546 A:middle
 [ Foreign Language ]
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3894,6 +3988,8 @@ published by the NSA.
 00:47:58.936 --> 00:48:03.246 A:middle
 So there was this spy
 master probably in the NSA
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -3970,6 +4066,8 @@ It always frustrates me.
 
 00:48:59.956 --> 00:49:01.356 A:middle
 It always makes me very jealous.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4064,6 +4162,8 @@ what the sentence means
 00:49:59.476 --> 00:50:00.946 A:middle
 in the language you're
 trying to learn.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4138,6 +4238,8 @@ help kids with disabilities,
 00:50:55.746 --> 00:51:00.206 A:middle
 kids with disadvantaged
 education backgrounds, refugees.
+
+
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
@@ -4177,3 +4279,5 @@ Thank you.
 
 00:51:23.516 --> 00:51:29.500 A:middle
 [ Applause ]
+
+
