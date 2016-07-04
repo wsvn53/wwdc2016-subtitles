@@ -3579,11 +3579,11 @@ submission,
 00:41:18.546 --> 00:41:19.736 A:middle
 which you may have set via MDM.
 
-00:41:19.736 --> 00:41:24.466 A:middle
-Now let's talk about iOS X.
+00:41:19.736 --> 00:41:24.396 A:middle
+Now let's talk about iOS 10.
 
 00:41:25.896 --> 00:41:29.826 A:middle
-In iOS X we updated the
+In iOS 10 we updated the
 contacts, exchange, Google,
 
 00:41:29.826 --> 00:41:32.286 A:middle
@@ -3593,11 +3593,14 @@ to include a new key
 00:41:32.546 --> 00:41:34.116 A:middle
 for communication service rules.
 
-00:41:35.926 --> 00:41:40.886 A:middle
-We saw earlier this week the new
-VoIP extension support in iOS X.
+00:41:35.926 --> 00:41:40.236 A:middle
+We saw earlier this week the
+new VoIP extension support
 
-00:41:40.886 --> 00:41:41.956 A:middle
+00:41:40.236 --> 00:41:40.826 A:middle
+in iOS 10.
+
+00:41:40.876 --> 00:41:41.956 A:middle
 And what this key allows you
 
 00:41:41.956 --> 00:41:45.176 A:middle
@@ -3652,7 +3655,7 @@ to specify a timeout for IPSec.
 
 00:42:16.776 --> 00:42:20.636 A:middle
 PPTP has also been removed
-from iOS X and macOS Sierra,
+from iOS 10 and macOS Sierra,
 
 00:42:20.636 --> 00:42:22.496 A:middle
 and existing payloads
@@ -3720,11 +3723,11 @@ these would stop being enforced
 00:43:09.176 --> 00:43:10.606 A:middle
 on unsupervised devices.
 
-00:43:11.946 --> 00:43:14.996 A:middle
+00:43:11.946 --> 00:43:14.936 A:middle
 Now, that future iOS
-release is not iOS X,
+release is not iOS 10,
 
-00:43:15.196 --> 00:43:18.126 A:middle
+00:43:14.936 --> 00:43:18.126 A:middle
 but we promise we are going
 to get rid of them very soon.
 
@@ -4329,7 +4332,7 @@ that Shubham talked
 about that are new
 
 00:50:37.786 --> 00:50:39.706 A:middle
-in iOS X and macOS Sierra.
+in iOS 10 and macOS Sierra.
 
 00:50:40.476 --> 00:50:42.776 A:middle
 Updated documentation

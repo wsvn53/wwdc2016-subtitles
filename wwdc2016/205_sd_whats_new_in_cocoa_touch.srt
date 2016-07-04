@@ -21,9 +21,9 @@ and I manage the UIKit team
 and today we're going to talk
 about what's new in UIKit
 
-00:00:36.206 --> 00:00:39.856 A:middle
+00:00:36.206 --> 00:00:39.166 A:middle
 and other system
-frameworks in iOS X.
+frameworks in iOS 10.
 
 00:00:40.696 --> 00:00:44.136 A:middle
 But first, I'd like
@@ -314,7 +314,7 @@ We're going to show how
 the new system features
 
 00:05:07.436 --> 00:05:10.216 A:middle
-in iOS X can make your
+in iOS 10 can make your
 application better.
 
 00:05:11.566 --> 00:05:13.876 A:middle
@@ -416,7 +416,7 @@ And when queue work item to be
 executed as synchronously and,
 
 00:06:53.786 --> 00:06:58.346 A:middle
-a new thing in iOS X, is you
+a new thing in iOS 10, is you
 can actually set the queue
 
 00:06:58.836 --> 00:07:04.046 A:middle
@@ -636,8 +636,8 @@ So first, iOS is actually
 already color managed.
 
 00:10:25.046 --> 00:10:30.466 A:middle
-iOS and [inaudible] and in
-iOS X, we are exposing the API
+iOS and [inaudible] and in iOS
+10, we are exposing the API
 
 00:10:30.466 --> 00:10:32.676 A:middle
 to work with a wide color range.
@@ -1030,9 +1030,9 @@ management system.
 We also have a full session on
 international user interfaces,
 
-00:16:20.296 --> 00:16:26.536 A:middle
+00:16:20.296 --> 00:16:26.626 A:middle
 where you can learn more about
-the improvements in iOS X.
+the improvements in iOS 10.
 
 00:16:26.776 --> 00:16:28.546 A:middle
 Now, I'd like to switch
@@ -1041,8 +1041,8 @@ Now, I'd like to switch
 to how you can build
 better user interfaces
 
-00:16:33.216 --> 00:16:35.676 A:middle
-and interactions in iOS X.
+00:16:33.216 --> 00:16:35.636 A:middle
+and interactions in iOS 10.
 
 00:16:37.176 --> 00:16:40.086 A:middle
 And the first thing is,
@@ -1118,8 +1118,9 @@ But, that's a great first step.
 We also have a new
 way to interact
 
-00:17:41.976 --> 00:17:45.866 A:middle
-with your applications in iOS X.
+00:17:41.976 --> 00:17:45.116 A:middle
+with your applications
+in iOS 10.
 
 00:17:46.566 --> 00:17:50.246 A:middle
 We added a new gesture,
@@ -1192,7 +1193,7 @@ the WWDC app about this API.
 
 00:18:55.616 --> 00:19:01.136 A:middle
 Another great improvement
-in iOS X is text input.
+in iOS 10 is text input.
 
 
 WEBVTT
@@ -1200,7 +1201,7 @@ X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
 00:18:55.616 --> 00:19:01.136 A:middle
 Another great improvement
-in iOS X is text input.
+in iOS 10 is text input.
 
 00:19:02.166 --> 00:19:06.556 A:middle
 One thing you can do now is to
@@ -1251,17 +1252,17 @@ Another thing about text input
 and text is how you
 can render text in iOS.
 
-00:19:58.696 --> 00:20:03.676 A:middle
+00:19:58.696 --> 00:20:03.636 A:middle
 In iOS 7 we added support for
-dynamic type and in iOS X,
+dynamic type and in iOS 10,
 
 
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
-00:19:58.696 --> 00:20:03.676 A:middle
+00:19:58.696 --> 00:20:03.636 A:middle
 In iOS 7 we added support for
-dynamic type and in iOS X,
+dynamic type and in iOS 10,
 
 00:20:03.886 --> 00:20:06.996 A:middle
 we are making the
@@ -1274,7 +1275,7 @@ for dynamic type, a trait.
 So what does that mean?
 
 00:20:11.836 --> 00:20:16.636 A:middle
-Before iOS X the content size
+Before iOS 10 the content size
 category was just a property
 
 00:20:16.846 --> 00:20:17.806 A:middle
@@ -1328,7 +1329,7 @@ and you want to react,
 to the size change,
 
 00:21:07.626 --> 00:21:10.906 A:middle
-now in iOS X you can
+now in iOS 10 you can
 use new adjust font
 
 00:21:11.566 --> 00:21:16.326 A:middle
@@ -1422,7 +1423,7 @@ And we had built in
 support, WK web view.
 
 00:22:42.316 --> 00:22:46.816 A:middle
-And now in iOS X, you
+And now in iOS 10, you
 have fine control of Peek
 
 00:22:46.816 --> 00:22:49.346 A:middle
@@ -1743,9 +1744,9 @@ up in your application.
 A great thing about
 that it's automatic.
 
-00:27:28.686 --> 00:27:32.486 A:middle
+00:27:28.686 --> 00:27:32.416 A:middle
 If you rebuild your
-application for iOS X,
+application for iOS 10,
 
 00:27:32.886 --> 00:27:35.236 A:middle
 you get that behavior
@@ -2011,9 +2012,9 @@ to build with that.
 00:31:43.516 --> 00:31:50.166 A:middle
 [ Applause ]
 
-00:31:50.666 --> 00:31:56.996 A:middle
+00:31:50.666 --> 00:31:56.296 A:middle
 Now, I'd like to talk about some
-new features we have in iOS X.
+new features we have in iOS 10.
 
 00:31:59.696 --> 00:32:04.106 A:middle
 And the key thing here
@@ -2229,7 +2230,7 @@ and private per user databases.
 
 00:35:01.216 --> 00:35:04.646 A:middle
 And what we are adding in
-iOS X is record sharing.
+iOS 10 is record sharing.
 
 00:35:05.196 --> 00:35:09.656 A:middle
 So you can have multiple users,
@@ -2332,7 +2333,7 @@ and Spotlight.
 
 00:36:34.856 --> 00:36:38.506 A:middle
 What we are doing now, in iOS
-X, is we are adding support
+10, is we are adding support
 
 00:36:38.506 --> 00:36:41.156 A:middle
 for locations in user activity.
@@ -2404,7 +2405,7 @@ which is this intelligence
 based, activity based,
 
 00:37:33.746 --> 00:37:36.436 A:middle
-features in iOS X,
+features in iOS 10,
 on your applications.
 
 00:37:37.946 --> 00:37:45.996 A:middle
@@ -2563,7 +2564,7 @@ to record your screen
 in your application.
 
 00:40:02.306 --> 00:40:06.756 A:middle
-In iOS X, you can use
+In iOS 10, you can use
 Replay Kit as a live stream.
 
 00:40:07.756 --> 00:40:10.366 A:middle
@@ -2629,9 +2630,9 @@ better to show you.
 This is your fire
 truck on iOS 9.
 
-00:41:07.026 --> 00:41:10.076 A:middle
+00:41:07.026 --> 00:41:10.026 A:middle
 This is your fire
-truck on iOS X.
+truck on iOS 10.
 
 00:41:10.836 --> 00:41:11.766 A:middle
 That's really amazing.
@@ -2771,9 +2772,9 @@ how you can make iOS better.
 00:43:08.756 --> 00:43:11.616 A:middle
 How you can integrate with iOS.
 
-00:43:12.136 --> 00:43:17.596 A:middle
+00:43:12.136 --> 00:43:17.556 A:middle
 We have major new
-extension points in iOS X,
+extension points in iOS 10,
 
 00:43:18.046 --> 00:43:21.266 A:middle
 messages, Siri, CallKit.
@@ -2807,9 +2808,9 @@ multi-language support
 00:43:43.576 --> 00:43:45.116 A:middle
 in your third-party extension.
 
-00:43:46.276 --> 00:43:49.156 A:middle
-Another thing that
-we improved in iOS X,
+00:43:46.276 --> 00:43:49.106 A:middle
+Another thing that we
+improved in iOS 10,
 
 00:43:49.486 --> 00:43:51.686 A:middle
 is the new display
@@ -2917,7 +2918,7 @@ my iPhone is locked.
 
 00:45:10.476 --> 00:45:14.966 A:middle
 A completely new framework in
-iOS X is user notifications.
+iOS 10 is user notifications.
 
 00:45:15.656 --> 00:45:21.286 A:middle
 So user notification, that's
@@ -3103,7 +3104,7 @@ in Pacific Heights on Wednesday.
 
 00:48:02.746 --> 00:48:07.226 A:middle
 Another new framework in
-iOS X is CallKit and again,
+iOS 10 is CallKit and again,
 
 00:48:07.226 --> 00:48:09.926 A:middle
 we are offering a new
@@ -3637,10 +3638,10 @@ other user changed.
 We have full support
 for messages extension
 
-00:55:51.576 --> 00:55:53.336 A:middle
-in [inaudible] and iOS X.
+00:55:51.576 --> 00:55:53.286 A:middle
+in [inaudible] and iOS 10.
 
-00:55:53.606 --> 00:55:57.826 A:middle
+00:55:53.286 --> 00:55:57.826 A:middle
 That's real easy to use and
 that's great feature for you
 

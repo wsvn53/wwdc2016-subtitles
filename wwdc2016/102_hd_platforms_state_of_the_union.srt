@@ -92,7 +92,7 @@ target even more users
 in even more markets.
 
 00:01:20.466 --> 00:01:24.706 A:middle
-Our iOS X in particular is
+Our iOS 10 in particular is
 huge this year for developers.
 
 00:01:25.446 --> 00:01:27.856 A:middle
@@ -476,15 +476,17 @@ both sent and received.
 And now Adele Peterson
 will show you how all
 
-00:05:59.976 --> 00:06:01.946 A:middle
-of this comes together in iOS X.
+00:05:59.976 --> 00:06:01.976 A:middle
+of this comes together
+in iOS 10.
 
 
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
-00:05:59.976 --> 00:06:01.946 A:middle
-of this comes together in iOS X.
+00:05:59.976 --> 00:06:01.976 A:middle
+of this comes together
+in iOS 10.
 
 00:06:02.516 --> 00:06:07.636 A:middle
 [ Applause ]
@@ -5521,7 +5523,7 @@ Now, how are we actually
 applying differential privacy
 
 01:04:56.316 --> 01:04:57.036 A:middle
-in iOS X?
+in iOS 10?
 
 01:04:57.036 --> 01:04:58.256 A:middle
 Let me give an example of this.
@@ -5658,9 +5660,9 @@ and still maintain your privacy.
 So with this, I'm going to hand
 it over to Toby, Toby Paterson,
 
-01:06:29.006 --> 01:06:32.006 A:middle
+01:06:29.006 --> 01:06:31.976 A:middle
 who will be talking about
-higher level features in iOS X.
+higher level features in iOS 10.
 
 01:06:32.186 --> 01:06:32.626 A:middle
 Toby?
@@ -5825,7 +5827,7 @@ suggestions and connections
 between your applications.
 
 01:08:45.906 --> 01:08:49.935 A:middle
-And in iOS X, we're adding two
+And in iOS 10, we're adding two
 important pieces of information.
 
 01:08:51.446 --> 01:08:55.136 A:middle
@@ -6165,7 +6167,7 @@ doesn't look too funny.
 
 01:13:14.116 --> 01:13:19.246 A:middle
 You need to build with the
-iOS X SDK, and that's it.
+iOS 10 SDK, and that's it.
 
 01:13:19.426 --> 01:13:22.626 A:middle
 Nothing else has changed about
@@ -7050,7 +7052,7 @@ And to help you with that,
 the new watch face gallery
 
 01:23:56.106 --> 01:23:59.406 A:middle
-in iOS X includes an
+in iOS 10 includes an
 entire section devoted just
 
 01:23:59.406 --> 01:24:00.756 A:middle
@@ -8844,11 +8846,11 @@ unique apps for your users.
 Also, go and check out the
 new Swift Playgrounds app,
 
-01:45:06.216 --> 01:45:07.746 A:middle
-which we're including in
-the iOS X Developer Preview.
+01:45:06.216 --> 01:45:08.536 A:middle
+which we're including in the
+iOS 10 Developer Preview.
 
-01:45:07.746 --> 01:45:10.286 A:middle
+01:45:08.536 --> 01:45:10.286 A:middle
 I think you're going to
 have a ton of fun with it
 

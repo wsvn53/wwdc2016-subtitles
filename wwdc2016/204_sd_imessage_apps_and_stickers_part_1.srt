@@ -122,7 +122,7 @@ always supported, like photos,
 videos, text, links, et cetera.
 
 00:01:57.626 --> 00:02:01.106 A:middle
-Also in iOS X we will
+Also in iOS 10 we will
 have a Messages App Store.
 
 
@@ -130,7 +130,7 @@ WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
 00:01:57.626 --> 00:02:01.106 A:middle
-Also in iOS X we will
+Also in iOS 10 we will
 have a Messages App Store.
 
 00:02:01.736 --> 00:02:03.806 A:middle
@@ -290,17 +290,17 @@ for your users.
 Now let's talk about
 supportive platforms.
 
-00:03:58.116 --> 00:04:00.706 A:middle
+00:03:58.116 --> 00:04:00.726 A:middle
 iMessage apps will
-only run on iOS X.
+only run on iOS 10.
 
 
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
-00:03:58.116 --> 00:04:00.706 A:middle
+00:03:58.116 --> 00:04:00.726 A:middle
 iMessage apps will
-only run on iOS X.
+only run on iOS 10.
 
 00:04:02.466 --> 00:04:05.756 A:middle
 However, the content that your
@@ -429,9 +429,9 @@ at 1:40 p.m. Messages framework,
 Messages framework
 is the new framework
 
-00:05:34.306 --> 00:05:36.266 A:middle
+00:05:34.306 --> 00:05:36.286 A:middle
 that we are introducing
-in iOS X.
+in iOS 10.
 
 00:05:37.056 --> 00:05:38.986 A:middle
 Messages framework

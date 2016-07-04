@@ -1606,7 +1606,7 @@ As Nick mentioned, the Apple
 Pay JavaScript API is available
 
 00:18:35.576 --> 00:18:39.886 A:middle
-in iOS X in Safari,
+in iOS 10 in Safari,
 as well as apps
 
 00:18:39.886 --> 00:18:41.306 A:middle
@@ -3199,7 +3199,7 @@ our production environments
 
 00:39:25.826 --> 00:39:28.946 A:middle
 as we near the release of
-iOS X and Mac OS Sierra.
+iOS 10 and Mac OS Sierra.
 
 00:39:36.856 --> 00:39:39.836 A:middle
 Now also, when testing
