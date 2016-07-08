@@ -37,6 +37,59 @@ to talk about the tragedy
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
+00:00:55.016 --> 00:01:01.046 A:middle
+we'd like to take a moment
+to talk about the tragedy
+
+00:01:01.046 --> 00:01:03.266 A:middle
+that occurred yesterday
+in Orlando, Florida.
+
+00:01:04.956 --> 00:01:07.266 A:middle
+We offer our deepest sympathies
+
+00:01:08.556 --> 00:01:13.016 A:middle
+to everyone whose lives were
+touched by this violence.
+
+00:01:14.326 --> 00:01:20.226 A:middle
+It was senseless, unconscionable
+act of terrorism and hate,
+
+00:01:20.806 --> 00:01:24.516 A:middle
+aimed at dividing
+and destroying.
+
+00:01:25.116 --> 00:01:31.426 A:middle
+The Apple community is
+made up of people from all
+
+00:01:32.016 --> 00:01:34.946 A:middle
+around the world, from
+all different backgrounds
+
+00:01:36.276 --> 00:01:38.026 A:middle
+and all different
+points of view.
+
+00:01:39.286 --> 00:01:41.816 A:middle
+We celebrate our diversity.
+
+00:01:43.056 --> 00:01:45.936 A:middle
+We know that it makes
+us stronger
+
+00:01:47.226 --> 00:01:49.046 A:middle
+and moves everyone forward.
+
+00:01:52.796 --> 00:01:58.756 A:middle
+Please rise and join us
+in a moment of silence
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
 00:02:00.056 --> 00:02:05.566 A:middle
 to honor the victims and
 the people who loved them.
@@ -144,6 +197,173 @@ These guys are incredible.
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
+00:03:58.866 --> 00:04:00.106 A:middle
+These guys are incredible.
+
+00:04:00.106 --> 00:04:03.046 A:middle
+If you see them, make sure
+that you congratulate them.
+
+00:04:03.816 --> 00:04:07.046 A:middle
+We have over 100 attendees
+at the conference this year
+
+00:04:07.376 --> 00:04:09.886 A:middle
+that are under 18 years of age.
+
+00:04:12.996 --> 00:04:18.805 A:middle
+The youngest, the
+youngest is only nine.
+
+00:04:25.446 --> 00:04:27.876 A:middle
+Wow. I met her yesterday
+and she is going
+
+00:04:27.876 --> 00:04:29.826 A:middle
+to make one heck of
+a great developer.
+
+00:04:36.116 --> 00:04:38.976 A:middle
+This week is about
+helping you get the most
+
+00:04:38.976 --> 00:04:40.206 A:middle
+out of our platforms.
+
+00:04:40.506 --> 00:04:43.336 A:middle
+So we have over 100
+engineering-led sessions
+
+00:04:43.336 --> 00:04:49.546 A:middle
+and over 150 hands-on labs
+with over 1000 Apple engineers
+
+00:04:49.616 --> 00:04:51.766 A:middle
+on site here to help
+you through the week.
+
+00:04:52.896 --> 00:04:59.226 A:middle
+The App Store started eight
+years ago with only 500 apps.
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
+00:05:00.056 --> 00:05:04.866 A:middle
+Recently, we passed
+a major milestone.
+
+00:05:05.906 --> 00:05:10.356 A:middle
+We now have 2 million
+apps on the App Store.
+
+00:05:11.516 --> 00:05:17.036 A:middle
+[ Applause ]
+
+00:05:17.536 --> 00:05:24.296 A:middle
+Your 2 million apps had been
+downloaded 130 billion times.
+
+00:05:27.646 --> 00:05:33.266 A:middle
+And as you know, the App Store
+is the best business opportunity
+
+00:05:33.266 --> 00:05:34.276 A:middle
+for developers.
+
+00:05:34.796 --> 00:05:40.226 A:middle
+We're about to pass $50 billion
+paid directly to developers.
+
+00:05:40.896 --> 00:05:42.346 A:middle
+This is absolutely amazing.
+
+00:05:45.596 --> 00:05:50.356 A:middle
+And of course, successful
+developers translates
+
+00:05:50.356 --> 00:05:53.706 A:middle
+to us having the best apps
+on our platform for users
+
+00:05:54.026 --> 00:05:55.826 A:middle
+and this is what really matters.
+
+00:05:56.346 --> 00:05:59.076 A:middle
+Now, we have a busy
+morning planned but I'd
+
+00:05:59.076 --> 00:06:01.716 A:middle
+like to take a moment to talk
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
+00:05:59.076 --> 00:06:01.716 A:middle
+like to take a moment to talk
+
+00:06:01.716 --> 00:06:04.426 A:middle
+about why we do what
+we do at Apple.
+
+00:06:04.426 --> 00:06:11.546 A:middle
+Our north star has always been
+about improving people's lives
+
+00:06:12.226 --> 00:06:15.026 A:middle
+by creating great products
+that change the world.
+
+00:06:16.186 --> 00:06:18.446 A:middle
+And we've been doing
+this for a long time.
+
+00:06:19.806 --> 00:06:25.486 A:middle
+But today, for the very first
+time, we're going to talk to you
+
+00:06:25.486 --> 00:06:28.276 A:middle
+about four Apple platforms.
+
+00:06:29.426 --> 00:06:33.906 A:middle
+Each of these platforms
+is category-defining
+
+00:06:34.626 --> 00:06:35.736 A:middle
+and world-changing.
+
+00:06:37.026 --> 00:06:40.896 A:middle
+The Macintosh changed
+personal computing.
+
+00:06:41.706 --> 00:06:44.166 A:middle
+Today, it's the most innovative
+
+00:06:44.166 --> 00:06:46.326 A:middle
+and loved personal
+computer on the planet.
+
+00:06:47.446 --> 00:06:50.616 A:middle
+iPhone changed phones forever.
+
+00:06:51.106 --> 00:06:55.206 A:middle
+It's the best smartphone
+experience and the gold standard
+
+00:06:55.206 --> 00:06:57.016 A:middle
+by which everything
+else is measured.
+
+00:06:58.176 --> 00:07:04.036 A:middle
+The iPad magically transforms
+a glass canvas into anything
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
 00:06:58.176 --> 00:07:04.036 A:middle
 The iPad magically transforms
 a glass canvas into anything
@@ -202,6 +422,70 @@ will do going forward.
 00:07:58.036 --> 00:08:01.546 A:middle
 Because it's together that
 we enrich people's lives.
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
+00:07:58.036 --> 00:08:01.546 A:middle
+Because it's together that
+we enrich people's lives.
+
+00:08:02.806 --> 00:08:07.726 A:middle
+Now, we offer you four
+incredible platforms
+
+00:08:08.076 --> 00:08:11.306 A:middle
+that power these world-changing
+product experiences.
+
+00:08:12.616 --> 00:08:15.906 A:middle
+watchOS, tvOS, OS X, iOS.
+
+00:08:17.406 --> 00:08:24.726 A:middle
+We're going to move each of
+these platforms forward today
+
+00:08:24.726 --> 00:08:28.336 A:middle
+and we'd like to get
+started with watchOS.
+
+00:08:28.336 --> 00:08:32.096 A:middle
+And to do that, I'd like
+to invite Kevin Lynch up.
+
+00:08:32.096 --> 00:08:32.515 A:middle
+Kevin.
+
+00:08:33.515 --> 00:08:40.416 A:middle
+[ Cheering and Applause ]
+
+00:08:40.916 --> 00:08:41.436 A:middle
+&gt;&gt; Thank you, Tim.
+
+00:08:42.336 --> 00:08:45.066 A:middle
+So I am really excited to
+talk with you about watchOS
+
+00:08:45.116 --> 00:08:46.646 A:middle
+and show you some
+of what's ahead.
+
+00:08:46.646 --> 00:08:50.236 A:middle
+Now, people who are using Apple
+Watch love it, particularly
+
+00:08:50.236 --> 00:08:53.226 A:middle
+for quick glances at information
+and quick interactions.
+
+00:08:53.716 --> 00:08:56.846 A:middle
+And our top focus is performance
+and we've made optimizations
+
+00:08:56.846 --> 00:09:00.286 A:middle
+across the entire system
+including a serious acceleration
 
 
 WEBVTT
@@ -304,6 +588,102 @@ example of watchOS 2.
 
 00:09:59.206 --> 00:10:00.116 A:middle
 Now, we're going to take a look
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
+00:09:59.206 --> 00:10:00.116 A:middle
+Now, we're going to take a look
+
+00:10:00.116 --> 00:10:03.176 A:middle
+at Onefootball launching
+in watchOS 3.
+
+00:10:03.176 --> 00:10:04.686 A:middle
+Are you guys ready?
+
+00:10:05.316 --> 00:10:06.096 A:middle
+OK, don't blink.
+
+00:10:07.586 --> 00:10:07.976 A:middle
+That's it.
+
+00:10:08.516 --> 00:10:16.196 A:middle
+[ Cheering and Applause ]
+
+00:10:16.696 --> 00:10:19.496 A:middle
+So that example is about seven
+times faster but it feels
+
+00:10:19.496 --> 00:10:20.706 A:middle
+like a million times faster.
+
+00:10:22.246 --> 00:10:23.306 A:middle
+So now, we've made
+it really easy
+
+00:10:23.306 --> 00:10:24.586 A:middle
+to access your favorite apps.
+
+00:10:25.346 --> 00:10:27.616 A:middle
+You can just press the
+side button below the crown
+
+00:10:27.616 --> 00:10:28.906 A:middle
+to show what we call the dock.
+
+00:10:29.396 --> 00:10:30.936 A:middle
+You can choose which
+apps go here
+
+00:10:30.936 --> 00:10:32.506 A:middle
+and you can quickly
+scroll through them.
+
+00:10:33.516 --> 00:10:37.346 A:middle
+[ Cheering and Applause ]
+
+00:10:37.846 --> 00:10:40.466 A:middle
+The apps are now both glanceable
+and interactive rather
+
+00:10:40.466 --> 00:10:41.366 A:middle
+than separate concepts.
+
+00:10:42.046 --> 00:10:43.186 A:middle
+This is a dramatic improvement
+
+00:10:43.186 --> 00:10:44.316 A:middle
+in how it feels to
+use the watch.
+
+00:10:45.296 --> 00:10:47.456 A:middle
+So this increased performance
+allowed us to have access
+
+00:10:47.456 --> 00:10:48.956 A:middle
+to our favorite apps quickly.
+
+00:10:48.956 --> 00:10:51.416 A:middle
+We want to be able to
+access them anywhere.
+
+00:10:51.416 --> 00:10:53.786 A:middle
+So by using the side button,
+we can get to them easily.
+
+00:10:53.786 --> 00:10:56.026 A:middle
+Now, another key
+design goal we had was
+
+00:10:56.056 --> 00:10:57.926 A:middle
+to make the watch
+feel more familiar.
+
+00:10:58.196 --> 00:11:00.506 A:middle
+And so we've done
+with the watch face,
 
 
 WEBVTT
@@ -694,6 +1074,169 @@ and they are lightning fast too.
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
 
+00:14:59.076 --> 00:15:03.466 A:middle
+like Sweat with Kayla, and Lyft,
+and they are lightning fast too.
+
+00:15:03.606 --> 00:15:06.266 A:middle
+Let's take a look.
+
+00:15:06.266 --> 00:15:10.326 A:middle
+With one tap, I can call a car.
+
+00:15:10.546 --> 00:15:11.496 A:middle
+Yikes, three minutes.
+
+00:15:11.746 --> 00:15:15.636 A:middle
+I have so much to show you
+like New Apps, Reminders
+
+00:15:15.636 --> 00:15:19.746 A:middle
+and Find My Friends that have
+been designed specifically
+
+00:15:19.746 --> 00:15:21.156 A:middle
+for this kind of
+quick interaction.
+
+00:15:21.156 --> 00:15:22.286 A:middle
+Let's look at Reminders.
+
+00:15:22.946 --> 00:15:25.546 A:middle
+Now, I can keep all my lists
+with me throughout the day
+
+00:15:25.546 --> 00:15:28.076 A:middle
+and just check things
+off as I get them done.
+
+00:15:28.756 --> 00:15:29.836 A:middle
+Here's my bucket list.
+
+00:15:30.876 --> 00:15:32.186 A:middle
+You don't get to
+do this very often
+
+00:15:33.096 --> 00:15:34.886 A:middle
+but today is just
+one of those days.
+
+00:15:35.516 --> 00:15:45.836 A:middle
+[ Cheering and Applause ]
+
+00:15:46.336 --> 00:15:48.836 A:middle
+Find My Friends takes
+advantage of background updates
+
+00:15:48.836 --> 00:15:51.806 A:middle
+to ensure I always have the
+latest and greatest location
+
+00:15:51.806 --> 00:15:52.876 A:middle
+for my friends and family.
+
+00:15:53.376 --> 00:15:55.196 A:middle
+Now, I never have to worry
+about whether my kids got
+
+00:15:55.196 --> 00:15:57.226 A:middle
+to their activities on time.
+
+00:15:58.156 --> 00:16:01.376 A:middle
+And we wanted to make changing
+your watch face as easy
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
+00:15:58.156 --> 00:16:01.376 A:middle
+And we wanted to make changing
+your watch face as easy
+
+00:16:01.376 --> 00:16:03.326 A:middle
+as swiping through
+apps on your dock.
+
+00:16:03.426 --> 00:16:05.846 A:middle
+And while Minnie is fabulous
+for a casual weekend,
+
+00:16:05.846 --> 00:16:08.016 A:middle
+sometimes I want to wear
+something simple and elegant.
+
+00:16:08.586 --> 00:16:11.756 A:middle
+Now, with an edge-to-edge swipe,
+I can get to my Numerals face.
+
+00:16:11.816 --> 00:16:15.756 A:middle
+And for those of you as obsessed
+with closing your rings as I am,
+
+00:16:16.046 --> 00:16:17.816 A:middle
+we now have the Activity face.
+
+00:16:18.436 --> 00:16:19.876 A:middle
+Every time I raise my wrist,
+
+00:16:19.876 --> 00:16:22.106 A:middle
+I get to see those big
+beautiful rings reminding me
+
+00:16:22.106 --> 00:16:23.656 A:middle
+to get up and get moving.
+
+00:16:23.656 --> 00:16:26.906 A:middle
+And I can launch my
+workout right from the face.
+
+00:16:27.856 --> 00:16:30.186 A:middle
+With the New Quick Start
+feature, I can bypass setting
+
+00:16:30.186 --> 00:16:32.096 A:middle
+up a goal and just get started.
+
+00:16:33.516 --> 00:16:36.106 A:middle
+[ Beeping Sound ]
+
+00:16:36.606 --> 00:16:40.256 A:middle
+I didn't really come dressed for
+a workout today, so I'm going
+
+00:16:40.336 --> 00:16:43.476 A:middle
+to swipe over and that then
+take us back to our watch face.
+
+00:16:44.376 --> 00:16:46.866 A:middle
+Notifications are still right
+where you think they'd be,
+
+00:16:46.866 --> 00:16:48.476 A:middle
+pulled down from the
+top of the screen.
+
+00:16:49.076 --> 00:16:51.246 A:middle
+This is a message I saved
+from my friend Isabel.
+
+00:16:51.906 --> 00:16:54.676 A:middle
+She's been teaching me a little
+Mandarin and she wants me
+
+00:16:54.676 --> 00:16:56.896 A:middle
+to reply about dinner
+tonight in Chinese.
+
+00:16:56.896 --> 00:16:59.146 A:middle
+I can do that with the
+new Scribble feature.
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
 00:17:00.636 --> 00:17:02.736 A:middle
 Scribble works in
 English and Chinese
@@ -869,6 +1412,98 @@ Apple Watch does.
 
 00:18:58.516 --> 00:19:05.326 A:middle
 [ Applause ]
+
+
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:181083,LOCAL:00:00:00.000
+
+00:18:58.516 --> 00:19:05.326 A:middle
+[ Applause ]
+
+00:19:05.826 --> 00:19:08.306 A:middle
+So in this case, it calls
+999 rather than 911.
+
+00:19:09.066 --> 00:19:11.316 A:middle
+So this is an emergency
+feature that isn't one
+
+00:19:11.316 --> 00:19:13.206 A:middle
+that you'll use often
+but when you need it,
+
+00:19:13.206 --> 00:19:15.036 A:middle
+it's going to be
+there and that's SOS.
+
+00:19:15.036 --> 00:19:19.806 A:middle
+Now, one of the primary reasons
+people are wearing the watch
+
+00:19:19.806 --> 00:19:21.016 A:middle
+today is for fitness and health.
+
+00:19:21.016 --> 00:19:23.506 A:middle
+And we're enhancing the
+activity and workout apps
+
+00:19:23.506 --> 00:19:26.236 A:middle
+and we're adding a new app that
+we think you're going to love.
+
+00:19:26.426 --> 00:19:28.586 A:middle
+Take a look at this,
+please welcome Jay Blahnik.
+
+00:19:29.516 --> 00:19:31.816 A:middle
+[ Cheering and Applause ]
+
+00:19:32.316 --> 00:19:32.796 A:middle
+&gt;&gt; Thanks, Kevin.
+
+00:19:32.896 --> 00:19:33.266 A:middle
+&gt;&gt; Thank you.
+
+00:19:37.516 --> 00:19:39.856 A:middle
+&gt;&gt; So we know that one
+of the most popular apps
+
+00:19:39.856 --> 00:19:42.016 A:middle
+in the Apple Watch
+is the Activity app.
+
+00:19:42.016 --> 00:19:43.576 A:middle
+And as Kevin and
+Stacey have mentioned,
+
+00:19:43.846 --> 00:19:46.606 A:middle
+many people have told us that
+they actually become more active
+
+00:19:46.606 --> 00:19:49.576 A:middle
+because they become addicted
+to closing the activity rings.
+
+00:19:50.016 --> 00:19:50.976 A:middle
+And we love hearing that.
+
+00:19:51.096 --> 00:19:54.206 A:middle
+But we also know that
+many people are motivated
+
+00:19:54.206 --> 00:19:55.096 A:middle
+by other things.
+
+00:19:55.636 --> 00:19:57.586 A:middle
+Some people are motivated
+by getting support
+
+00:19:57.586 --> 00:19:58.776 A:middle
+from their family and friends.
+
+00:19:59.166 --> 00:20:01.206 A:middle
+And if you're like
+me, you're motivated
 
 
 WEBVTT
